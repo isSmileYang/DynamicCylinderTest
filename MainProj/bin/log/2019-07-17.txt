@@ -1,0 +1,12 @@
+2019-07-17 14:50:27,729[INFO]
+fMainProj.MainForm.GenerateReport_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:126)
+正在处理数据，准备开始生成试验报告，这个过程可能持续几秒，请等待...
+
+2019-07-17 14:50:27,748[ERROR]
+fMainProj.MainForm.GenerateReport_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:129)
+尚未进行配置
+
+2019-07-17 14:50:28,939[INFO]
+fMainProj.MainForm.OnDebug_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:121)
+暂不支持调试，如需调试请联系开发人员
+

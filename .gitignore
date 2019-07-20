@@ -1,0 +1,6 @@
+*.lock
+/.vs/5ARigSolution/v15/Server/sqlite3/*.ide
+/.vs/5ARigSolution/v15/Server/sqlite3/*.ide-shm
+/.vs/5ARigSolution/v15/Server/sqlite3/*.ide-wal
+*.cache
+Debug

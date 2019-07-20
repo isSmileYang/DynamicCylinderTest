@@ -1,0 +1,20 @@
+2019-07-13 14:22:15,991[INFO]
+fMainProj.MainForm.OnDebug_Click(D:\5A项目\5A__Project\MainProj\MainForm.cs:124)
+暂不支持调试，如需调试请联系开发人员
+
+2019-07-13 14:22:16,387[INFO]
+fMainProj.MainForm.GenerateReport_Click(D:\5A项目\5A__Project\MainProj\MainForm.cs:129)
+正在处理数据，准备开始生成试验报告，这个过程可能持续几秒，请等待...
+
+2019-07-13 14:22:16,387[ERROR]
+fMainProj.MainForm.GenerateReport_Click(D:\5A项目\5A__Project\MainProj\MainForm.cs:132)
+尚未进行配置
+
+2019-07-13 14:49:18,103[INFO]
+fMainProj.MainForm.GenerateReport_Click(D:\5A项目\5A__Project\MainProj\MainForm.cs:129)
+正在处理数据，准备开始生成试验报告，这个过程可能持续几秒，请等待...
+
+2019-07-13 14:49:18,112[ERROR]
+fMainProj.MainForm.GenerateReport_Click(D:\5A项目\5A__Project\MainProj\MainForm.cs:132)
+尚未进行配置
+

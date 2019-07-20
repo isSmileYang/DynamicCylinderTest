@@ -1,0 +1,4204 @@
+2019-07-19 00:05:26,442[DEBUG]
+fMainProj.Local.SharedBase.Start(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:102)
+试验开始
+
+2019-07-19 00:05:26,442[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:201)
+试验开始...
+
+2019-07-19 00:05:26,458[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 0	组数据 : 0
+
+2019-07-19 00:05:26,458[DEBUG]
+fMainProj.MainForm.OnTestStart_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:88)
+试验开始
+
+2019-07-19 00:05:26,520[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 1	组数据 : 1
+
+2019-07-19 00:05:26,583[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 2	组数据 : 1.4142135623731
+
+2019-07-19 00:05:26,645[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 3	组数据 : 1.73205080756888
+
+2019-07-19 00:05:26,708[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 4	组数据 : 2
+
+2019-07-19 00:05:26,770[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 5	组数据 : 2.23606797749979
+
+2019-07-19 00:05:26,833[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 6	组数据 : 2.44948974278318
+
+2019-07-19 00:05:26,895[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 7	组数据 : 2.64575131106459
+
+2019-07-19 00:05:26,958[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 8	组数据 : 2.82842712474619
+
+2019-07-19 00:05:27,020[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 9	组数据 : 3
+
+2019-07-19 00:05:27,083[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 10	组数据 : 3.16227766016838
+
+2019-07-19 00:05:27,145[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 11	组数据 : 3.3166247903554
+
+2019-07-19 00:05:27,208[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 12	组数据 : 3.46410161513775
+
+2019-07-19 00:05:27,270[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 13	组数据 : 3.60555127546399
+
+2019-07-19 00:05:27,333[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 14	组数据 : 3.74165738677394
+
+2019-07-19 00:05:27,395[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 15	组数据 : 3.87298334620742
+
+2019-07-19 00:05:27,458[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 16	组数据 : 4
+
+2019-07-19 00:05:27,520[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 17	组数据 : 4.12310562561766
+
+2019-07-19 00:05:27,583[DEBUG]
+fMainProj.Local.SharedBase.AbortTest(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:152)
+试验中止
+
+2019-07-19 00:05:27,583[INFO]
+fMainProj.MainForm.OnTestStop_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:118)
+试验停止
+
+2019-07-19 00:05:27,583[ERROR]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:236)
+错误:正在中止线程。
+
+2019-07-19 00:17:38,781[DEBUG]
+fMainProj.Local.SharedBase.Start(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:102)
+试验开始
+
+2019-07-19 00:17:38,781[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:201)
+试验开始...
+
+2019-07-19 00:17:38,794[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 0	组数据 : 0
+
+2019-07-19 00:17:38,795[DEBUG]
+fMainProj.MainForm.OnTestStart_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:88)
+试验开始
+
+2019-07-19 00:17:38,845[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 1	组数据 : 1
+
+2019-07-19 00:17:38,896[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 2	组数据 : 1.4142135623731
+
+2019-07-19 00:17:38,946[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 3	组数据 : 1.73205080756888
+
+2019-07-19 00:17:38,997[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 4	组数据 : 2
+
+2019-07-19 00:17:39,048[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 5	组数据 : 2.23606797749979
+
+2019-07-19 00:17:39,098[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 6	组数据 : 2.44948974278318
+
+2019-07-19 00:17:39,149[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 7	组数据 : 2.64575131106459
+
+2019-07-19 00:17:39,200[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 8	组数据 : 2.82842712474619
+
+2019-07-19 00:17:39,251[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 9	组数据 : 3
+
+2019-07-19 00:17:39,302[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 10	组数据 : 3.16227766016838
+
+2019-07-19 00:17:39,353[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 11	组数据 : 3.3166247903554
+
+2019-07-19 00:17:39,741[DEBUG]
+fMainProj.Local.SharedBase.SuspendTest(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:118)
+试验暂停
+
+2019-07-19 00:17:39,743[INFO]
+fMainProj.MainForm.OnTestPause_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:101)
+试验暂停中...
+
+2019-07-19 00:17:40,960[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 12	组数据 : 3.46410161513775
+
+2019-07-19 00:17:41,011[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 13	组数据 : 3.60555127546399
+
+2019-07-19 00:17:41,062[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 14	组数据 : 3.74165738677394
+
+2019-07-19 00:17:41,113[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 15	组数据 : 3.87298334620742
+
+2019-07-19 00:17:41,164[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 16	组数据 : 4
+
+2019-07-19 00:17:41,215[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 17	组数据 : 4.12310562561766
+
+2019-07-19 00:17:41,261[DEBUG]
+fMainProj.Local.SharedBase.ResumeTest(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:134)
+试验恢复
+
+2019-07-19 00:17:41,266[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 18	组数据 : 4.24264068711928
+
+2019-07-19 00:17:41,318[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 19	组数据 : 4.35889894354067
+
+2019-07-19 00:17:41,369[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 20	组数据 : 4.47213595499958
+
+2019-07-19 00:17:41,420[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 21	组数据 : 4.58257569495584
+
+2019-07-19 00:17:41,471[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 22	组数据 : 4.69041575982343
+
+2019-07-19 00:17:41,521[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 23	组数据 : 4.79583152331272
+
+2019-07-19 00:17:41,571[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 24	组数据 : 4.89897948556636
+
+2019-07-19 00:17:41,622[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 25	组数据 : 5
+
+2019-07-19 00:17:41,674[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 26	组数据 : 5.09901951359278
+
+2019-07-19 00:17:41,726[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 27	组数据 : 5.19615242270663
+
+2019-07-19 00:17:41,776[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 28	组数据 : 5.29150262212918
+
+2019-07-19 00:17:41,827[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 29	组数据 : 5.3851648071345
+
+2019-07-19 00:17:41,877[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 30	组数据 : 5.47722557505166
+
+2019-07-19 00:17:41,929[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 31	组数据 : 5.56776436283002
+
+2019-07-19 00:17:41,980[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 32	组数据 : 5.65685424949238
+
+2019-07-19 00:17:42,030[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 33	组数据 : 5.74456264653803
+
+2019-07-19 00:17:42,081[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 34	组数据 : 5.8309518948453
+
+2019-07-19 00:17:42,132[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 35	组数据 : 5.91607978309962
+
+2019-07-19 00:17:42,182[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 36	组数据 : 6
+
+2019-07-19 00:17:42,233[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 37	组数据 : 6.08276253029822
+
+2019-07-19 00:17:42,284[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 38	组数据 : 6.16441400296898
+
+2019-07-19 00:17:42,335[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 39	组数据 : 6.2449979983984
+
+2019-07-19 00:17:42,386[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 40	组数据 : 6.32455532033676
+
+2019-07-19 00:17:42,436[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 41	组数据 : 6.40312423743285
+
+2019-07-19 00:17:42,486[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 42	组数据 : 6.48074069840786
+
+2019-07-19 00:17:42,539[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 43	组数据 : 6.557438524302
+
+2019-07-19 00:17:42,590[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 44	组数据 : 6.6332495807108
+
+2019-07-19 00:17:42,640[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 45	组数据 : 6.70820393249937
+
+2019-07-19 00:17:42,690[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 46	组数据 : 6.78232998312527
+
+2019-07-19 00:17:42,741[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 47	组数据 : 6.85565460040104
+
+2019-07-19 00:17:42,792[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 48	组数据 : 6.92820323027551
+
+2019-07-19 00:17:42,843[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 49	组数据 : 7
+
+2019-07-19 00:17:42,894[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 50	组数据 : 7.07106781186548
+
+2019-07-19 00:17:42,944[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 51	组数据 : 7.14142842854285
+
+2019-07-19 00:17:42,996[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 52	组数据 : 7.21110255092798
+
+2019-07-19 00:17:43,047[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 53	组数据 : 7.28010988928052
+
+2019-07-19 00:17:43,098[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 54	组数据 : 7.34846922834953
+
+2019-07-19 00:17:43,149[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 55	组数据 : 7.41619848709566
+
+2019-07-19 00:17:43,199[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 56	组数据 : 7.48331477354788
+
+2019-07-19 00:17:43,250[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 57	组数据 : 7.54983443527075
+
+2019-07-19 00:17:43,301[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 58	组数据 : 7.61577310586391
+
+2019-07-19 00:17:43,353[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 59	组数据 : 7.68114574786861
+
+2019-07-19 00:17:43,404[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 60	组数据 : 7.74596669241483
+
+2019-07-19 00:17:43,455[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 61	组数据 : 7.81024967590665
+
+2019-07-19 00:17:43,506[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 62	组数据 : 7.87400787401181
+
+2019-07-19 00:17:43,557[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 63	组数据 : 7.93725393319377
+
+2019-07-19 00:17:43,608[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 64	组数据 : 8
+
+2019-07-19 00:17:43,658[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 65	组数据 : 8.06225774829855
+
+2019-07-19 00:17:43,710[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 66	组数据 : 8.12403840463596
+
+2019-07-19 00:17:43,761[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 67	组数据 : 8.18535277187245
+
+2019-07-19 00:17:43,812[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 68	组数据 : 8.24621125123532
+
+2019-07-19 00:17:43,863[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 69	组数据 : 8.30662386291807
+
+2019-07-19 00:17:43,914[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 70	组数据 : 8.36660026534076
+
+2019-07-19 00:17:43,965[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 71	组数据 : 8.42614977317636
+
+2019-07-19 00:17:44,015[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 72	组数据 : 8.48528137423857
+
+2019-07-19 00:17:44,066[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 73	组数据 : 8.54400374531753
+
+2019-07-19 00:17:44,117[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 74	组数据 : 8.60232526704263
+
+2019-07-19 00:17:44,169[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 75	组数据 : 8.66025403784439
+
+2019-07-19 00:17:44,220[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 76	组数据 : 8.71779788708135
+
+2019-07-19 00:17:44,271[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 77	组数据 : 8.77496438739212
+
+2019-07-19 00:17:44,322[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 78	组数据 : 8.83176086632785
+
+2019-07-19 00:17:44,374[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 79	组数据 : 8.88819441731559
+
+2019-07-19 00:17:44,425[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 80	组数据 : 8.94427190999916
+
+2019-07-19 00:17:44,476[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 81	组数据 : 9
+
+2019-07-19 00:17:44,527[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 82	组数据 : 9.05538513813742
+
+2019-07-19 00:17:44,578[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 83	组数据 : 9.1104335791443
+
+2019-07-19 00:17:44,629[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 84	组数据 : 9.16515138991168
+
+2019-07-19 00:17:44,679[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 85	组数据 : 9.21954445729289
+
+2019-07-19 00:17:44,729[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 86	组数据 : 9.2736184954957
+
+2019-07-19 00:17:44,780[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 87	组数据 : 9.32737905308882
+
+2019-07-19 00:17:44,831[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 88	组数据 : 9.38083151964686
+
+2019-07-19 00:17:44,882[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 89	组数据 : 9.4339811320566
+
+2019-07-19 00:17:44,933[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 90	组数据 : 9.48683298050514
+
+2019-07-19 00:17:44,983[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 91	组数据 : 9.53939201416946
+
+2019-07-19 00:17:45,033[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 92	组数据 : 9.59166304662544
+
+2019-07-19 00:17:45,085[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 93	组数据 : 9.64365076099295
+
+2019-07-19 00:17:45,137[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 94	组数据 : 9.69535971483266
+
+2019-07-19 00:17:45,189[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 95	组数据 : 9.74679434480896
+
+2019-07-19 00:17:45,240[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 96	组数据 : 9.79795897113271
+
+2019-07-19 00:17:45,291[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 97	组数据 : 9.8488578017961
+
+2019-07-19 00:17:45,342[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 98	组数据 : 9.89949493661167
+
+2019-07-19 00:17:45,394[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 99	组数据 : 9.9498743710662
+
+2019-07-19 00:17:48,169[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:229)
+试验结束,请打印实验报告...
+
+2019-07-19 00:17:50,749[INFO]
+fMainProj.MainForm.GenerateReport_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:133)
+正在处理数据，准备开始生成试验报告，这个过程可能持续几秒，请等待...
+
+2019-07-19 00:17:50,749[INFO]
+fMainProj.Local.SharedBase.Generate(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:160)
+正在生成试验报告
+
+2019-07-19 00:17:50,750[INFO]
+fMainProj.Local.SharedBase.GenerateReport(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:167)
+正在写入基础信息...
+
+2019-07-19 00:21:47,513[DEBUG]
+fMainProj.Local.SharedBase.Start(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:102)
+试验开始
+
+2019-07-19 00:21:47,513[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:201)
+试验开始...
+
+2019-07-19 00:21:47,529[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 0	组数据 : 0
+
+2019-07-19 00:21:47,530[DEBUG]
+fMainProj.MainForm.OnTestStart_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:88)
+试验开始
+
+2019-07-19 00:21:47,579[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 1	组数据 : 1
+
+2019-07-19 00:21:47,630[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 2	组数据 : 1.4142135623731
+
+2019-07-19 00:21:47,681[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 3	组数据 : 1.73205080756888
+
+2019-07-19 00:21:47,732[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 4	组数据 : 2
+
+2019-07-19 00:21:47,783[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 5	组数据 : 2.23606797749979
+
+2019-07-19 00:21:47,834[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 6	组数据 : 2.44948974278318
+
+2019-07-19 00:21:47,884[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 7	组数据 : 2.64575131106459
+
+2019-07-19 00:21:47,935[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 8	组数据 : 2.82842712474619
+
+2019-07-19 00:21:47,986[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 9	组数据 : 3
+
+2019-07-19 00:21:48,037[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 10	组数据 : 3.16227766016838
+
+2019-07-19 00:21:48,088[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 11	组数据 : 3.3166247903554
+
+2019-07-19 00:21:48,138[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 12	组数据 : 3.46410161513775
+
+2019-07-19 00:21:48,189[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 13	组数据 : 3.60555127546399
+
+2019-07-19 00:21:48,241[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 14	组数据 : 3.74165738677394
+
+2019-07-19 00:21:48,291[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 15	组数据 : 3.87298334620742
+
+2019-07-19 00:21:48,388[DEBUG]
+fMainProj.Local.SharedBase.AbortTest(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:152)
+试验中止
+
+2019-07-19 00:21:48,394[INFO]
+fMainProj.MainForm.OnTestStop_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:118)
+试验停止
+
+2019-07-19 00:21:48,395[ERROR]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:236)
+错误:正在中止线程。
+
+2019-07-19 00:21:50,535[INFO]
+fMainProj.FormZedGraphWithSingle.button1_Click(E:\5A实验台项目\DynamicCylinder\MainProj\FormCommon\FormZedGraphWithSingle.cs:66)
+曲线已保存到E:\5A实验台项目\DynamicCylinder\MainProj\bin\report\pict\缓冲试验报告曲线19-07-19 122146.bmp
+
+2019-07-19 00:21:53,481[INFO]
+fMainProj.MainForm.GenerateReport_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:133)
+正在处理数据，准备开始生成试验报告，这个过程可能持续几秒，请等待...
+
+2019-07-19 00:21:53,481[ERROR]
+fMainProj.MainForm.GenerateReport_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:143)
+未进行试验，不能生成报告
+
+2019-07-19 00:22:00,969[INFO]
+fMainProj.MainForm.GenerateReport_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:133)
+正在处理数据，准备开始生成试验报告，这个过程可能持续几秒，请等待...
+
+2019-07-19 00:22:00,969[ERROR]
+fMainProj.MainForm.GenerateReport_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:143)
+未进行试验，不能生成报告
+
+2019-07-19 00:22:06,061[DEBUG]
+fMainProj.Local.SharedBase.Start(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:102)
+试验开始
+
+2019-07-19 00:22:06,064[DEBUG]
+fMainProj.MainForm.OnTestStart_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:88)
+试验开始
+
+2019-07-19 00:22:06,065[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:201)
+试验开始...
+
+2019-07-19 00:22:06,065[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 0	组数据 : 0
+
+2019-07-19 00:22:06,117[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 1	组数据 : 1
+
+2019-07-19 00:22:06,168[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 2	组数据 : 1.4142135623731
+
+2019-07-19 00:22:06,219[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 3	组数据 : 1.73205080756888
+
+2019-07-19 00:22:06,270[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 4	组数据 : 2
+
+2019-07-19 00:22:06,320[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 5	组数据 : 2.23606797749979
+
+2019-07-19 00:22:06,371[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 6	组数据 : 2.44948974278318
+
+2019-07-19 00:22:06,422[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 7	组数据 : 2.64575131106459
+
+2019-07-19 00:22:06,473[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 8	组数据 : 2.82842712474619
+
+2019-07-19 00:22:06,524[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 9	组数据 : 3
+
+2019-07-19 00:22:06,574[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 10	组数据 : 3.16227766016838
+
+2019-07-19 00:22:06,625[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 11	组数据 : 3.3166247903554
+
+2019-07-19 00:22:06,676[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 12	组数据 : 3.46410161513775
+
+2019-07-19 00:22:06,727[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 13	组数据 : 3.60555127546399
+
+2019-07-19 00:22:06,778[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 14	组数据 : 3.74165738677394
+
+2019-07-19 00:22:06,829[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 15	组数据 : 3.87298334620742
+
+2019-07-19 00:22:06,880[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 16	组数据 : 4
+
+2019-07-19 00:22:06,931[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 17	组数据 : 4.12310562561766
+
+2019-07-19 00:22:06,981[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 18	组数据 : 4.24264068711928
+
+2019-07-19 00:22:07,032[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 19	组数据 : 4.35889894354067
+
+2019-07-19 00:22:07,083[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 20	组数据 : 4.47213595499958
+
+2019-07-19 00:22:07,134[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 21	组数据 : 4.58257569495584
+
+2019-07-19 00:22:07,185[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 22	组数据 : 4.69041575982343
+
+2019-07-19 00:22:07,236[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 23	组数据 : 4.79583152331272
+
+2019-07-19 00:22:07,287[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 24	组数据 : 4.89897948556636
+
+2019-07-19 00:22:07,338[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 25	组数据 : 5
+
+2019-07-19 00:22:07,390[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 26	组数据 : 5.09901951359278
+
+2019-07-19 00:22:07,441[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 27	组数据 : 5.19615242270663
+
+2019-07-19 00:22:07,493[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 28	组数据 : 5.29150262212918
+
+2019-07-19 00:22:07,544[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 29	组数据 : 5.3851648071345
+
+2019-07-19 00:22:07,594[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 30	组数据 : 5.47722557505166
+
+2019-07-19 00:22:07,646[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 31	组数据 : 5.56776436283002
+
+2019-07-19 00:22:07,696[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 32	组数据 : 5.65685424949238
+
+2019-07-19 00:22:07,747[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 33	组数据 : 5.74456264653803
+
+2019-07-19 00:22:07,798[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 34	组数据 : 5.8309518948453
+
+2019-07-19 00:22:07,849[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 35	组数据 : 5.91607978309962
+
+2019-07-19 00:22:07,899[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 36	组数据 : 6
+
+2019-07-19 00:22:07,950[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 37	组数据 : 6.08276253029822
+
+2019-07-19 00:22:08,000[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 38	组数据 : 6.16441400296898
+
+2019-07-19 00:22:08,051[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 39	组数据 : 6.2449979983984
+
+2019-07-19 00:22:08,103[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 40	组数据 : 6.32455532033676
+
+2019-07-19 00:22:08,154[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 41	组数据 : 6.40312423743285
+
+2019-07-19 00:22:08,205[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 42	组数据 : 6.48074069840786
+
+2019-07-19 00:22:08,256[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 43	组数据 : 6.557438524302
+
+2019-07-19 00:22:08,306[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 44	组数据 : 6.6332495807108
+
+2019-07-19 00:22:08,358[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 45	组数据 : 6.70820393249937
+
+2019-07-19 00:22:08,409[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 46	组数据 : 6.78232998312527
+
+2019-07-19 00:22:08,460[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 47	组数据 : 6.85565460040104
+
+2019-07-19 00:22:08,510[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 48	组数据 : 6.92820323027551
+
+2019-07-19 00:22:08,561[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 49	组数据 : 7
+
+2019-07-19 00:22:08,612[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 50	组数据 : 7.07106781186548
+
+2019-07-19 00:22:08,663[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 51	组数据 : 7.14142842854285
+
+2019-07-19 00:22:08,714[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 52	组数据 : 7.21110255092798
+
+2019-07-19 00:22:08,764[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 53	组数据 : 7.28010988928052
+
+2019-07-19 00:22:08,815[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 54	组数据 : 7.34846922834953
+
+2019-07-19 00:22:08,866[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 55	组数据 : 7.41619848709566
+
+2019-07-19 00:22:08,922[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 56	组数据 : 7.48331477354788
+
+2019-07-19 00:22:08,973[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 57	组数据 : 7.54983443527075
+
+2019-07-19 00:22:09,025[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 58	组数据 : 7.61577310586391
+
+2019-07-19 00:22:09,075[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 59	组数据 : 7.68114574786861
+
+2019-07-19 00:22:09,127[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 60	组数据 : 7.74596669241483
+
+2019-07-19 00:22:09,177[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 61	组数据 : 7.81024967590665
+
+2019-07-19 00:22:09,228[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 62	组数据 : 7.87400787401181
+
+2019-07-19 00:22:09,279[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 63	组数据 : 7.93725393319377
+
+2019-07-19 00:22:09,329[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 64	组数据 : 8
+
+2019-07-19 00:22:09,380[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 65	组数据 : 8.06225774829855
+
+2019-07-19 00:22:09,431[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 66	组数据 : 8.12403840463596
+
+2019-07-19 00:22:09,482[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 67	组数据 : 8.18535277187245
+
+2019-07-19 00:22:09,532[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 68	组数据 : 8.24621125123532
+
+2019-07-19 00:22:09,583[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 69	组数据 : 8.30662386291807
+
+2019-07-19 00:22:09,635[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 70	组数据 : 8.36660026534076
+
+2019-07-19 00:22:09,686[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 71	组数据 : 8.42614977317636
+
+2019-07-19 00:22:09,737[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 72	组数据 : 8.48528137423857
+
+2019-07-19 00:22:09,788[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 73	组数据 : 8.54400374531753
+
+2019-07-19 00:22:09,838[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 74	组数据 : 8.60232526704263
+
+2019-07-19 00:22:09,889[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 75	组数据 : 8.66025403784439
+
+2019-07-19 00:22:09,940[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 76	组数据 : 8.71779788708135
+
+2019-07-19 00:22:09,991[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 77	组数据 : 8.77496438739212
+
+2019-07-19 00:22:10,041[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 78	组数据 : 8.83176086632785
+
+2019-07-19 00:22:10,093[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 79	组数据 : 8.88819441731559
+
+2019-07-19 00:22:10,144[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 80	组数据 : 8.94427190999916
+
+2019-07-19 00:22:10,194[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 81	组数据 : 9
+
+2019-07-19 00:22:10,245[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 82	组数据 : 9.05538513813742
+
+2019-07-19 00:22:10,296[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 83	组数据 : 9.1104335791443
+
+2019-07-19 00:22:10,346[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 84	组数据 : 9.16515138991168
+
+2019-07-19 00:22:10,396[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 85	组数据 : 9.21954445729289
+
+2019-07-19 00:22:10,448[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 86	组数据 : 9.2736184954957
+
+2019-07-19 00:22:10,499[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 87	组数据 : 9.32737905308882
+
+2019-07-19 00:22:10,551[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 88	组数据 : 9.38083151964686
+
+2019-07-19 00:22:10,602[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 89	组数据 : 9.4339811320566
+
+2019-07-19 00:22:10,654[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 90	组数据 : 9.48683298050514
+
+2019-07-19 00:22:10,705[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 91	组数据 : 9.53939201416946
+
+2019-07-19 00:22:10,756[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 92	组数据 : 9.59166304662544
+
+2019-07-19 00:22:10,807[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 93	组数据 : 9.64365076099295
+
+2019-07-19 00:22:10,858[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 94	组数据 : 9.69535971483266
+
+2019-07-19 00:22:10,908[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 95	组数据 : 9.74679434480896
+
+2019-07-19 00:22:10,959[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 96	组数据 : 9.79795897113271
+
+2019-07-19 00:22:11,010[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 97	组数据 : 9.8488578017961
+
+2019-07-19 00:22:11,060[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 98	组数据 : 9.89949493661167
+
+2019-07-19 00:22:11,111[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 99	组数据 : 9.9498743710662
+
+2019-07-19 00:22:16,116[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:229)
+试验结束,请打印实验报告...
+
+2019-07-19 00:22:17,893[INFO]
+fMainProj.FormZedGraphWithSingle.button1_Click(E:\5A实验台项目\DynamicCylinder\MainProj\FormCommon\FormZedGraphWithSingle.cs:66)
+曲线已保存到E:\5A实验台项目\DynamicCylinder\MainProj\bin\report\pict\缓冲试验报告曲线19-07-19 122205.bmp
+
+2019-07-19 00:22:22,470[INFO]
+fMainProj.MainForm.GenerateReport_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:133)
+正在处理数据，准备开始生成试验报告，这个过程可能持续几秒，请等待...
+
+2019-07-19 00:22:22,471[INFO]
+fMainProj.Local.SharedBase.Generate(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:160)
+正在生成试验报告
+
+2019-07-19 00:22:22,471[INFO]
+fMainProj.Local.SharedBase.GenerateReport(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:167)
+正在写入基础信息...
+
+2019-07-19 00:22:48,254[DEBUG]
+fMainProj.Local.SharedBase.GenerateReport(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:177)
+正在写入图片
+
+2019-07-19 00:22:49,094[INFO]
+fMainProj.Local.SharedBase.Generate(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:162)
+报告已生成
+
+2019-07-19 10:05:40,534[DEBUG]
+fMainProj.Local.SharedBase.Start(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:102)
+试验开始
+
+2019-07-19 10:05:40,534[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:201)
+试验开始...
+
+2019-07-19 10:05:40,563[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 0	组数据 : 0
+
+2019-07-19 10:05:40,563[DEBUG]
+fMainProj.MainForm.OnTestStart_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:88)
+试验开始
+
+2019-07-19 10:05:40,614[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 1	组数据 : 1
+
+2019-07-19 10:05:40,665[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 2	组数据 : 1.4142135623731
+
+2019-07-19 10:05:40,716[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 3	组数据 : 1.73205080756888
+
+2019-07-19 10:05:40,767[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 4	组数据 : 2
+
+2019-07-19 10:05:40,819[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 5	组数据 : 2.23606797749979
+
+2019-07-19 10:05:40,870[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 6	组数据 : 2.44948974278318
+
+2019-07-19 10:05:40,920[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 7	组数据 : 2.64575131106459
+
+2019-07-19 10:05:40,972[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 8	组数据 : 2.82842712474619
+
+2019-07-19 10:05:41,023[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 9	组数据 : 3
+
+2019-07-19 10:05:41,073[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 10	组数据 : 3.16227766016838
+
+2019-07-19 10:05:41,123[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 11	组数据 : 3.3166247903554
+
+2019-07-19 10:05:41,174[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 12	组数据 : 3.46410161513775
+
+2019-07-19 10:05:41,225[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 13	组数据 : 3.60555127546399
+
+2019-07-19 10:05:41,275[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 14	组数据 : 3.74165738677394
+
+2019-07-19 10:05:41,326[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 15	组数据 : 3.87298334620742
+
+2019-07-19 10:05:41,376[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 16	组数据 : 4
+
+2019-07-19 10:05:41,427[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 17	组数据 : 4.12310562561766
+
+2019-07-19 10:05:41,479[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 18	组数据 : 4.24264068711928
+
+2019-07-19 10:05:41,530[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 19	组数据 : 4.35889894354067
+
+2019-07-19 10:05:41,581[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 20	组数据 : 4.47213595499958
+
+2019-07-19 10:05:41,632[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 21	组数据 : 4.58257569495584
+
+2019-07-19 10:05:41,683[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 22	组数据 : 4.69041575982343
+
+2019-07-19 10:05:41,733[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 23	组数据 : 4.79583152331272
+
+2019-07-19 10:05:41,784[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 24	组数据 : 4.89897948556636
+
+2019-07-19 10:05:41,834[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 25	组数据 : 5
+
+2019-07-19 10:05:41,885[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 26	组数据 : 5.09901951359278
+
+2019-07-19 10:05:41,935[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 27	组数据 : 5.19615242270663
+
+2019-07-19 10:05:41,986[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 28	组数据 : 5.29150262212918
+
+2019-07-19 10:05:42,038[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 29	组数据 : 5.3851648071345
+
+2019-07-19 10:05:42,089[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 30	组数据 : 5.47722557505166
+
+2019-07-19 10:05:42,139[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 31	组数据 : 5.56776436283002
+
+2019-07-19 10:05:42,190[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 32	组数据 : 5.65685424949238
+
+2019-07-19 10:05:42,241[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 33	组数据 : 5.74456264653803
+
+2019-07-19 10:05:42,292[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 34	组数据 : 5.8309518948453
+
+2019-07-19 10:05:42,343[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 35	组数据 : 5.91607978309962
+
+2019-07-19 10:05:42,395[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 36	组数据 : 6
+
+2019-07-19 10:05:42,446[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 37	组数据 : 6.08276253029822
+
+2019-07-19 10:05:42,497[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 38	组数据 : 6.16441400296898
+
+2019-07-19 10:05:42,547[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 39	组数据 : 6.2449979983984
+
+2019-07-19 10:05:42,598[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 40	组数据 : 6.32455532033676
+
+2019-07-19 10:05:42,649[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 41	组数据 : 6.40312423743285
+
+2019-07-19 10:05:42,700[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 42	组数据 : 6.48074069840786
+
+2019-07-19 10:05:42,751[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 43	组数据 : 6.557438524302
+
+2019-07-19 10:05:42,804[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 44	组数据 : 6.6332495807108
+
+2019-07-19 10:05:42,854[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 45	组数据 : 6.70820393249937
+
+2019-07-19 10:05:42,906[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 46	组数据 : 6.78232998312527
+
+2019-07-19 10:05:42,958[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 47	组数据 : 6.85565460040104
+
+2019-07-19 10:05:43,008[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 48	组数据 : 6.92820323027551
+
+2019-07-19 10:05:43,059[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 49	组数据 : 7
+
+2019-07-19 10:05:43,110[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 50	组数据 : 7.07106781186548
+
+2019-07-19 10:05:43,161[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 51	组数据 : 7.14142842854285
+
+2019-07-19 10:05:43,212[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 52	组数据 : 7.21110255092798
+
+2019-07-19 10:05:43,264[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 53	组数据 : 7.28010988928052
+
+2019-07-19 10:05:43,314[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 54	组数据 : 7.34846922834953
+
+2019-07-19 10:05:43,365[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 55	组数据 : 7.41619848709566
+
+2019-07-19 10:05:43,417[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 56	组数据 : 7.48331477354788
+
+2019-07-19 14:35:04,682[DEBUG]
+fMainProj.Local.SharedBase.Start(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:102)
+试验开始
+
+2019-07-19 14:35:04,683[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:201)
+试验开始...
+
+2019-07-19 14:35:04,722[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 0	组数据 : 0
+
+2019-07-19 14:35:04,722[DEBUG]
+fMainProj.MainForm.OnTestStart_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:89)
+试验开始
+
+2019-07-19 14:35:04,774[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 1	组数据 : 1
+
+2019-07-19 14:35:04,825[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 2	组数据 : 1.4142135623731
+
+2019-07-19 14:35:04,876[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 3	组数据 : 1.73205080756888
+
+2019-07-19 14:35:04,927[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 4	组数据 : 2
+
+2019-07-19 14:35:04,978[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 5	组数据 : 2.23606797749979
+
+2019-07-19 14:35:05,029[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 6	组数据 : 2.44948974278318
+
+2019-07-19 14:35:05,080[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 7	组数据 : 2.64575131106459
+
+2019-07-19 14:35:05,130[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 8	组数据 : 2.82842712474619
+
+2019-07-19 14:35:05,181[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 9	组数据 : 3
+
+2019-07-19 14:35:05,232[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 10	组数据 : 3.16227766016838
+
+2019-07-19 14:35:05,283[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 11	组数据 : 3.3166247903554
+
+2019-07-19 14:35:05,333[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 12	组数据 : 3.46410161513775
+
+2019-07-19 14:35:05,385[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 13	组数据 : 3.60555127546399
+
+2019-07-19 14:35:05,435[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 14	组数据 : 3.74165738677394
+
+2019-07-19 14:35:05,486[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 15	组数据 : 3.87298334620742
+
+2019-07-19 14:35:05,538[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 16	组数据 : 4
+
+2019-07-19 14:35:05,588[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 17	组数据 : 4.12310562561766
+
+2019-07-19 14:35:05,639[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 18	组数据 : 4.24264068711928
+
+2019-07-19 14:35:05,690[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 19	组数据 : 4.35889894354067
+
+2019-07-19 14:35:05,740[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 20	组数据 : 4.47213595499958
+
+2019-07-19 14:35:05,791[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 21	组数据 : 4.58257569495584
+
+2019-07-19 14:35:05,842[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 22	组数据 : 4.69041575982343
+
+2019-07-19 14:35:05,893[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 23	组数据 : 4.79583152331272
+
+2019-07-19 14:35:05,944[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 24	组数据 : 4.89897948556636
+
+2019-07-19 14:35:05,995[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 25	组数据 : 5
+
+2019-07-19 14:35:06,046[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 26	组数据 : 5.09901951359278
+
+2019-07-19 14:35:06,096[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 27	组数据 : 5.19615242270663
+
+2019-07-19 14:35:06,147[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 28	组数据 : 5.29150262212918
+
+2019-07-19 14:35:06,198[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 29	组数据 : 5.3851648071345
+
+2019-07-19 14:35:06,249[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 30	组数据 : 5.47722557505166
+
+2019-07-19 14:35:06,300[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 31	组数据 : 5.56776436283002
+
+2019-07-19 14:35:06,350[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 32	组数据 : 5.65685424949238
+
+2019-07-19 14:35:06,401[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 33	组数据 : 5.74456264653803
+
+2019-07-19 14:35:06,451[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 34	组数据 : 5.8309518948453
+
+2019-07-19 14:35:06,502[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 35	组数据 : 5.91607978309962
+
+2019-07-19 14:35:06,552[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 36	组数据 : 6
+
+2019-07-19 14:35:06,603[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 37	组数据 : 6.08276253029822
+
+2019-07-19 14:35:06,654[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 38	组数据 : 6.16441400296898
+
+2019-07-19 14:35:06,704[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 39	组数据 : 6.2449979983984
+
+2019-07-19 14:35:06,755[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 40	组数据 : 6.32455532033676
+
+2019-07-19 14:35:06,808[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 41	组数据 : 6.40312423743285
+
+2019-07-19 14:35:06,859[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 42	组数据 : 6.48074069840786
+
+2019-07-19 14:35:06,909[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 43	组数据 : 6.557438524302
+
+2019-07-19 14:35:06,961[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 44	组数据 : 6.6332495807108
+
+2019-07-19 14:35:07,012[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 45	组数据 : 6.70820393249937
+
+2019-07-19 14:35:07,063[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 46	组数据 : 6.78232998312527
+
+2019-07-19 14:35:07,113[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 47	组数据 : 6.85565460040104
+
+2019-07-19 14:35:07,165[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 48	组数据 : 6.92820323027551
+
+2019-07-19 14:35:07,217[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 49	组数据 : 7
+
+2019-07-19 14:35:07,268[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 50	组数据 : 7.07106781186548
+
+2019-07-19 14:35:07,319[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 51	组数据 : 7.14142842854285
+
+2019-07-19 14:35:07,369[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 52	组数据 : 7.21110255092798
+
+2019-07-19 14:35:07,420[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 53	组数据 : 7.28010988928052
+
+2019-07-19 14:35:07,470[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 54	组数据 : 7.34846922834953
+
+2019-07-19 14:35:07,521[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 55	组数据 : 7.41619848709566
+
+2019-07-19 14:35:07,572[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 56	组数据 : 7.48331477354788
+
+2019-07-19 14:35:07,624[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 57	组数据 : 7.54983443527075
+
+2019-07-19 14:35:07,674[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 58	组数据 : 7.61577310586391
+
+2019-07-19 14:35:07,725[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 59	组数据 : 7.68114574786861
+
+2019-07-19 14:35:07,775[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 60	组数据 : 7.74596669241483
+
+2019-07-19 14:35:07,826[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 61	组数据 : 7.81024967590665
+
+2019-07-19 14:35:07,877[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 62	组数据 : 7.87400787401181
+
+2019-07-19 14:35:07,928[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 63	组数据 : 7.93725393319377
+
+2019-07-19 14:35:07,979[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 64	组数据 : 8
+
+2019-07-19 14:35:08,030[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 65	组数据 : 8.06225774829855
+
+2019-07-19 14:35:08,082[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 66	组数据 : 8.12403840463596
+
+2019-07-19 14:35:08,133[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 67	组数据 : 8.18535277187245
+
+2019-07-19 14:35:08,183[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 68	组数据 : 8.24621125123532
+
+2019-07-19 14:35:08,235[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 69	组数据 : 8.30662386291807
+
+2019-07-19 14:35:08,286[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 70	组数据 : 8.36660026534076
+
+2019-07-19 14:35:08,337[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 71	组数据 : 8.42614977317636
+
+2019-07-19 14:35:08,388[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 72	组数据 : 8.48528137423857
+
+2019-07-19 14:35:08,438[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 73	组数据 : 8.54400374531753
+
+2019-07-19 14:35:08,489[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 74	组数据 : 8.60232526704263
+
+2019-07-19 14:35:08,540[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 75	组数据 : 8.66025403784439
+
+2019-07-19 14:35:08,591[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 76	组数据 : 8.71779788708135
+
+2019-07-19 14:35:08,641[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 77	组数据 : 8.77496438739212
+
+2019-07-19 14:35:08,692[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 78	组数据 : 8.83176086632785
+
+2019-07-19 14:35:08,743[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 79	组数据 : 8.88819441731559
+
+2019-07-19 14:35:08,794[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 80	组数据 : 8.94427190999916
+
+2019-07-19 14:35:08,844[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 81	组数据 : 9
+
+2019-07-19 14:35:08,895[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 82	组数据 : 9.05538513813742
+
+2019-07-19 14:35:08,945[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 83	组数据 : 9.1104335791443
+
+2019-07-19 14:35:08,998[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 84	组数据 : 9.16515138991168
+
+2019-07-19 14:35:09,049[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 85	组数据 : 9.21954445729289
+
+2019-07-19 14:35:09,099[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 86	组数据 : 9.2736184954957
+
+2019-07-19 14:35:09,150[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 87	组数据 : 9.32737905308882
+
+2019-07-19 14:35:09,201[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 88	组数据 : 9.38083151964686
+
+2019-07-19 14:35:09,251[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 89	组数据 : 9.4339811320566
+
+2019-07-19 14:35:09,302[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 90	组数据 : 9.48683298050514
+
+2019-07-19 14:35:09,353[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 91	组数据 : 9.53939201416946
+
+2019-07-19 14:35:09,404[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 92	组数据 : 9.59166304662544
+
+2019-07-19 14:35:09,455[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 93	组数据 : 9.64365076099295
+
+2019-07-19 14:35:09,506[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 94	组数据 : 9.69535971483266
+
+2019-07-19 14:35:09,557[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 95	组数据 : 9.74679434480896
+
+2019-07-19 14:35:09,608[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 96	组数据 : 9.79795897113271
+
+2019-07-19 14:35:09,659[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 97	组数据 : 9.8488578017961
+
+2019-07-19 14:35:09,710[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 98	组数据 : 9.89949493661167
+
+2019-07-19 14:35:09,760[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:215)
+第 99	组数据 : 9.9498743710662
+
+2019-07-19 14:35:12,993[INFO]
+fMainProj.Local.SharedBase.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:229)
+试验结束,请打印实验报告...
+
+2019-07-19 14:43:44,503[DEBUG]
+fMainProj.Local.SharedBase.Start(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:102)
+试验开始
+
+2019-07-19 14:43:44,517[DEBUG]
+fMainProj.MainForm.OnTestStart_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:89)
+试验开始
+
+2019-07-19 14:46:16,782[DEBUG]
+fMainProj.Local.SharedBase.AbortTest(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:152)
+试验中止
+
+2019-07-19 14:46:16,783[INFO]
+fMainProj.MainForm.OnTestStop_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:119)
+试验停止
+
+2019-07-19 14:46:18,164[INFO]
+fMainProj.MainForm.GenerateReport_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:134)
+正在处理数据，准备开始生成试验报告，这个过程可能持续几秒，请等待...
+
+2019-07-19 14:46:18,165[ERROR]
+fMainProj.MainForm.GenerateReport_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:144)
+未进行试验，不能生成报告
+
+2019-07-19 14:46:19,576[INFO]
+fMainProj.MainForm.GenerateReport_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:134)
+正在处理数据，准备开始生成试验报告，这个过程可能持续几秒，请等待...
+
+2019-07-19 14:46:19,576[ERROR]
+fMainProj.MainForm.GenerateReport_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:144)
+未进行试验，不能生成报告
+
+2019-07-19 14:56:01,508[DEBUG]
+fMainProj.Local.SharedBase.Start(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:102)
+试验开始
+
+2019-07-19 14:56:01,521[DEBUG]
+fMainProj.MainForm.OnTestStart_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:89)
+试验开始
+
+2019-07-19 14:57:28,340[DEBUG]
+fMainProj.Local.SharedBase.AbortTest(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:152)
+试验中止
+
+2019-07-19 14:57:28,340[INFO]
+fMainProj.MainForm.OnTestStop_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:119)
+试验停止
+
+2019-07-19 14:57:33,509[INFO]
+fMainProj.MainForm.GenerateReport_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:134)
+正在处理数据，准备开始生成试验报告，这个过程可能持续几秒，请等待...
+
+2019-07-19 14:57:33,510[ERROR]
+fMainProj.MainForm.GenerateReport_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:144)
+未进行试验，不能生成报告
+
+2019-07-19 15:03:33,351[DEBUG]
+fMainProj.Local.SharedBase.Start(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:102)
+试验开始
+
+2019-07-19 15:03:33,369[DEBUG]
+fMainProj.MainForm.OnTestStart_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:89)
+试验开始
+
+2019-07-19 15:05:07,900[DEBUG]
+fMainProj.Local.SharedBase.AbortTest(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:152)
+试验中止
+
+2019-07-19 15:05:07,901[INFO]
+fMainProj.MainForm.OnTestStop_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:119)
+试验停止
+
+2019-07-19 15:06:02,676[DEBUG]
+fMainProj.Local.SharedBase.Start(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:102)
+试验开始
+
+2019-07-19 15:06:02,699[DEBUG]
+fMainProj.MainForm.OnTestStart_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:89)
+试验开始
+
+2019-07-19 15:07:22,654[DEBUG]
+fMainProj.Local.SharedBase.Start(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:102)
+试验开始
+
+2019-07-19 15:07:22,679[DEBUG]
+fMainProj.MainForm.OnTestStart_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:89)
+试验开始
+
+2019-07-19 15:07:24,690[DEBUG]
+fMainProj.Local.SharedBase.AbortTest(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:152)
+试验中止
+
+2019-07-19 15:07:24,691[INFO]
+fMainProj.MainForm.OnTestStop_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:119)
+试验停止
+
+2019-07-19 15:08:14,673[DEBUG]
+fMainProj.Local.SharedBase.Start(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:102)
+试验开始
+
+2019-07-19 15:08:14,687[DEBUG]
+fMainProj.MainForm.OnTestStart_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:89)
+试验开始
+
+2019-07-19 15:10:00,469[DEBUG]
+fMainProj.Local.SharedBase.Start(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:102)
+试验开始
+
+2019-07-19 15:10:00,491[DEBUG]
+fMainProj.MainForm.OnTestStart_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:89)
+试验开始
+
+2019-07-19 15:10:55,414[DEBUG]
+fMainProj.Local.SharedBase.Start(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:102)
+试验开始
+
+2019-07-19 15:10:55,428[DEBUG]
+fMainProj.MainForm.OnTestStart_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:89)
+试验开始
+
+2019-07-19 16:47:18,724[INFO]
+fMainProj.MainForm.OnDebug_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:129)
+暂不支持调试，如需调试请联系开发人员
+
+2019-07-19 16:47:23,841[INFO]
+fMainProj.MainForm.OnDebug_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:129)
+暂不支持调试，如需调试请联系开发人员
+
+2019-07-19 16:47:24,012[INFO]
+fMainProj.MainForm.OnDebug_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:129)
+暂不支持调试，如需调试请联系开发人员
+
+2019-07-19 16:47:24,328[INFO]
+fMainProj.MainForm.OnDebug_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:129)
+暂不支持调试，如需调试请联系开发人员
+
+2019-07-19 16:47:24,484[INFO]
+fMainProj.MainForm.OnDebug_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:129)
+暂不支持调试，如需调试请联系开发人员
+
+2019-07-19 16:47:24,638[INFO]
+fMainProj.MainForm.OnDebug_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:129)
+暂不支持调试，如需调试请联系开发人员
+
+2019-07-19 16:47:24,795[INFO]
+fMainProj.MainForm.OnDebug_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:129)
+暂不支持调试，如需调试请联系开发人员
+
+2019-07-19 16:47:24,949[INFO]
+fMainProj.MainForm.OnDebug_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:129)
+暂不支持调试，如需调试请联系开发人员
+
+2019-07-19 16:47:25,088[INFO]
+fMainProj.MainForm.OnDebug_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:129)
+暂不支持调试，如需调试请联系开发人员
+
+2019-07-19 16:47:25,252[INFO]
+fMainProj.MainForm.OnDebug_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:129)
+暂不支持调试，如需调试请联系开发人员
+
+2019-07-19 21:09:59,102[DEBUG]
+fMainProj.Local.SharedBase.Start(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:102)
+试验开始
+
+2019-07-19 21:09:59,153[DEBUG]
+fMainProj.MainForm.OnTestStart_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:90)
+试验开始
+
+2019-07-19 21:10:00,904[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:142)
+试验开始...
+
+2019-07-19 21:10:00,906[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 0	组数据 : 0
+
+2019-07-19 21:10:00,958[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 1	组数据 : 1
+
+2019-07-19 21:10:01,012[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 2	组数据 : 1.4142135623731
+
+2019-07-19 21:10:01,065[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 3	组数据 : 1.73205080756888
+
+2019-07-19 21:10:01,116[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 4	组数据 : 2
+
+2019-07-19 21:10:01,167[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 5	组数据 : 2.23606797749979
+
+2019-07-19 21:10:01,218[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 6	组数据 : 2.44948974278318
+
+2019-07-19 21:10:01,270[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 7	组数据 : 2.64575131106459
+
+2019-07-19 21:10:01,321[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 8	组数据 : 2.82842712474619
+
+2019-07-19 21:10:01,372[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 9	组数据 : 3
+
+2019-07-19 21:10:01,423[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 10	组数据 : 3.16227766016838
+
+2019-07-19 21:10:01,476[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 11	组数据 : 3.3166247903554
+
+2019-07-19 21:10:01,529[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 12	组数据 : 3.46410161513775
+
+2019-07-19 21:10:01,580[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 13	组数据 : 3.60555127546399
+
+2019-07-19 21:10:01,636[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 14	组数据 : 3.74165738677394
+
+2019-07-19 21:10:01,687[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 15	组数据 : 3.87298334620742
+
+2019-07-19 21:10:01,738[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 16	组数据 : 4
+
+2019-07-19 21:10:01,789[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 17	组数据 : 4.12310562561766
+
+2019-07-19 21:10:01,840[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 18	组数据 : 4.24264068711928
+
+2019-07-19 21:10:01,891[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 19	组数据 : 4.35889894354067
+
+2019-07-19 21:10:01,942[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 20	组数据 : 4.47213595499958
+
+2019-07-19 21:10:01,993[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 21	组数据 : 4.58257569495584
+
+2019-07-19 21:10:02,044[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 22	组数据 : 4.69041575982343
+
+2019-07-19 21:10:02,095[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 23	组数据 : 4.79583152331272
+
+2019-07-19 21:10:02,146[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 24	组数据 : 4.89897948556636
+
+2019-07-19 21:10:02,197[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 25	组数据 : 5
+
+2019-07-19 21:10:02,248[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 26	组数据 : 5.09901951359278
+
+2019-07-19 21:10:02,299[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 27	组数据 : 5.19615242270663
+
+2019-07-19 21:10:02,351[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 28	组数据 : 5.29150262212918
+
+2019-07-19 21:10:02,403[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 29	组数据 : 5.3851648071345
+
+2019-07-19 21:10:02,455[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 30	组数据 : 5.47722557505166
+
+2019-07-19 21:10:02,506[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 31	组数据 : 5.56776436283002
+
+2019-07-19 21:10:02,557[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 32	组数据 : 5.65685424949238
+
+2019-07-19 21:10:02,607[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 33	组数据 : 5.74456264653803
+
+2019-07-19 21:10:02,659[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 34	组数据 : 5.8309518948453
+
+2019-07-19 21:10:02,710[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 35	组数据 : 5.91607978309962
+
+2019-07-19 21:10:02,760[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 36	组数据 : 6
+
+2019-07-19 21:10:02,811[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 37	组数据 : 6.08276253029822
+
+2019-07-19 21:10:02,862[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 38	组数据 : 6.16441400296898
+
+2019-07-19 21:10:02,913[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 39	组数据 : 6.2449979983984
+
+2019-07-19 21:10:02,965[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 40	组数据 : 6.32455532033676
+
+2019-07-19 21:10:03,015[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 41	组数据 : 6.40312423743285
+
+2019-07-19 21:10:03,067[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 42	组数据 : 6.48074069840786
+
+2019-07-19 21:10:03,119[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 43	组数据 : 6.557438524302
+
+2019-07-19 21:10:03,172[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 44	组数据 : 6.6332495807108
+
+2019-07-19 21:10:03,223[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 45	组数据 : 6.70820393249937
+
+2019-07-19 21:10:03,274[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 46	组数据 : 6.78232998312527
+
+2019-07-19 21:10:03,325[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 47	组数据 : 6.85565460040104
+
+2019-07-19 21:10:03,376[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 48	组数据 : 6.92820323027551
+
+2019-07-19 21:10:03,427[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 49	组数据 : 7
+
+2019-07-19 21:10:03,478[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 50	组数据 : 7.07106781186548
+
+2019-07-19 21:10:03,529[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 51	组数据 : 7.14142842854285
+
+2019-07-19 21:10:03,580[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 52	组数据 : 7.21110255092798
+
+2019-07-19 21:10:03,631[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 53	组数据 : 7.28010988928052
+
+2019-07-19 21:10:03,682[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 54	组数据 : 7.34846922834953
+
+2019-07-19 21:10:03,733[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 55	组数据 : 7.41619848709566
+
+2019-07-19 21:10:03,784[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 56	组数据 : 7.48331477354788
+
+2019-07-19 21:10:03,835[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 57	组数据 : 7.54983443527075
+
+2019-07-19 21:10:03,886[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 58	组数据 : 7.61577310586391
+
+2019-07-19 21:10:03,937[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 59	组数据 : 7.68114574786861
+
+2019-07-19 21:10:03,988[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 60	组数据 : 7.74596669241483
+
+2019-07-19 21:10:04,040[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 61	组数据 : 7.81024967590665
+
+2019-07-19 21:10:04,092[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 62	组数据 : 7.87400787401181
+
+2019-07-19 21:10:04,143[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 63	组数据 : 7.93725393319377
+
+2019-07-19 21:10:04,194[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 64	组数据 : 8
+
+2019-07-19 21:10:04,244[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 65	组数据 : 8.06225774829855
+
+2019-07-19 21:10:04,295[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 66	组数据 : 8.12403840463596
+
+2019-07-19 21:10:04,346[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 67	组数据 : 8.18535277187245
+
+2019-07-19 21:10:04,397[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 68	组数据 : 8.24621125123532
+
+2019-07-19 21:10:04,449[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 69	组数据 : 8.30662386291807
+
+2019-07-19 21:10:04,500[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 70	组数据 : 8.36660026534076
+
+2019-07-19 21:10:04,551[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 71	组数据 : 8.42614977317636
+
+2019-07-19 21:10:04,602[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 72	组数据 : 8.48528137423857
+
+2019-07-19 21:10:04,653[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 73	组数据 : 8.54400374531753
+
+2019-07-19 21:10:04,704[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 74	组数据 : 8.60232526704263
+
+2019-07-19 21:10:04,756[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 75	组数据 : 8.66025403784439
+
+2019-07-19 21:10:04,808[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 76	组数据 : 8.71779788708135
+
+2019-07-19 21:10:04,859[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 77	组数据 : 8.77496438739212
+
+2019-07-19 21:10:04,910[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 78	组数据 : 8.83176086632785
+
+2019-07-19 21:10:04,961[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 79	组数据 : 8.88819441731559
+
+2019-07-19 21:10:05,013[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 80	组数据 : 8.94427190999916
+
+2019-07-19 21:10:05,064[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 81	组数据 : 9
+
+2019-07-19 21:10:05,115[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 82	组数据 : 9.05538513813742
+
+2019-07-19 21:10:05,166[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 83	组数据 : 9.1104335791443
+
+2019-07-19 21:10:05,217[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 84	组数据 : 9.16515138991168
+
+2019-07-19 21:10:05,268[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 85	组数据 : 9.21954445729289
+
+2019-07-19 21:10:05,319[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 86	组数据 : 9.2736184954957
+
+2019-07-19 21:10:05,370[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 87	组数据 : 9.32737905308882
+
+2019-07-19 21:10:05,421[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 88	组数据 : 9.38083151964686
+
+2019-07-19 21:10:05,472[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 89	组数据 : 9.4339811320566
+
+2019-07-19 21:10:05,524[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 90	组数据 : 9.48683298050514
+
+2019-07-19 21:10:05,576[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 91	组数据 : 9.53939201416946
+
+2019-07-19 21:10:05,627[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 92	组数据 : 9.59166304662544
+
+2019-07-19 21:10:05,678[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 93	组数据 : 9.64365076099295
+
+2019-07-19 21:10:05,729[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 94	组数据 : 9.69535971483266
+
+2019-07-19 21:10:05,780[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 95	组数据 : 9.74679434480896
+
+2019-07-19 21:10:05,831[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 96	组数据 : 9.79795897113271
+
+2019-07-19 21:10:05,882[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 97	组数据 : 9.8488578017961
+
+2019-07-19 21:10:05,933[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 98	组数据 : 9.89949493661167
+
+2019-07-19 21:10:05,984[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:156)
+第 99	组数据 : 9.9498743710662
+
+2019-07-19 21:10:08,337[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:170)
+试验结束,请打印实验报告...
+
+2019-07-19 22:06:41,782[DEBUG]
+fMainProj.Local.SharedBase.Start(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:101)
+试验开始
+
+2019-07-19 22:06:41,782[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:144)
+试验开始...
+
+2019-07-19 22:06:41,807[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 0	组数据 : 0
+
+2019-07-19 22:06:41,807[DEBUG]
+fMainProj.MainForm.OnTestStart_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:91)
+试验开始
+
+2019-07-19 22:06:41,858[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 1	组数据 : 1
+
+2019-07-19 22:06:41,909[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 2	组数据 : 1.4142135623731
+
+2019-07-19 22:06:41,960[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 3	组数据 : 1.73205080756888
+
+2019-07-19 22:06:42,012[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 4	组数据 : 2
+
+2019-07-19 22:06:42,063[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 5	组数据 : 2.23606797749979
+
+2019-07-19 22:06:42,115[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 6	组数据 : 2.44948974278318
+
+2019-07-19 22:06:42,166[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 7	组数据 : 2.64575131106459
+
+2019-07-19 22:06:42,219[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 8	组数据 : 2.82842712474619
+
+2019-07-19 22:06:42,270[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 9	组数据 : 3
+
+2019-07-19 22:06:42,321[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 10	组数据 : 3.16227766016838
+
+2019-07-19 22:06:42,372[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 11	组数据 : 3.3166247903554
+
+2019-07-19 22:06:42,423[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 12	组数据 : 3.46410161513775
+
+2019-07-19 22:06:42,474[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 13	组数据 : 3.60555127546399
+
+2019-07-19 22:06:42,525[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 14	组数据 : 3.74165738677394
+
+2019-07-19 22:06:42,576[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 15	组数据 : 3.87298334620742
+
+2019-07-19 22:06:42,627[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 16	组数据 : 4
+
+2019-07-19 22:06:42,678[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 17	组数据 : 4.12310562561766
+
+2019-07-19 22:06:42,729[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 18	组数据 : 4.24264068711928
+
+2019-07-19 22:06:42,780[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 19	组数据 : 4.35889894354067
+
+2019-07-19 22:06:42,831[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 20	组数据 : 4.47213595499958
+
+2019-07-19 22:06:42,882[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 21	组数据 : 4.58257569495584
+
+2019-07-19 22:06:42,933[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 22	组数据 : 4.69041575982343
+
+2019-07-19 22:06:42,984[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 23	组数据 : 4.79583152331272
+
+2019-07-19 22:06:43,035[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 24	组数据 : 4.89897948556636
+
+2019-07-19 22:06:43,087[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 25	组数据 : 5
+
+2019-07-19 22:06:43,141[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 26	组数据 : 5.09901951359278
+
+2019-07-19 22:06:43,191[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 27	组数据 : 5.19615242270663
+
+2019-07-19 22:06:43,242[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 28	组数据 : 5.29150262212918
+
+2019-07-19 22:06:43,293[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 29	组数据 : 5.3851648071345
+
+2019-07-19 22:06:43,345[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 30	组数据 : 5.47722557505166
+
+2019-07-19 22:06:43,396[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 31	组数据 : 5.56776436283002
+
+2019-07-19 22:06:43,456[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 32	组数据 : 5.65685424949238
+
+2019-07-19 22:06:43,507[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 33	组数据 : 5.74456264653803
+
+2019-07-19 22:06:43,559[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 34	组数据 : 5.8309518948453
+
+2019-07-19 22:06:43,610[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 35	组数据 : 5.91607978309962
+
+2019-07-19 22:06:43,661[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 36	组数据 : 6
+
+2019-07-19 22:06:43,712[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 37	组数据 : 6.08276253029822
+
+2019-07-19 22:06:43,763[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 38	组数据 : 6.16441400296898
+
+2019-07-19 22:06:43,815[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 39	组数据 : 6.2449979983984
+
+2019-07-19 22:06:43,865[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 40	组数据 : 6.32455532033676
+
+2019-07-19 22:06:43,916[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 41	组数据 : 6.40312423743285
+
+2019-07-19 22:06:43,967[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 42	组数据 : 6.48074069840786
+
+2019-07-19 22:06:44,018[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 43	组数据 : 6.557438524302
+
+2019-07-19 22:06:44,069[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 44	组数据 : 6.6332495807108
+
+2019-07-19 22:06:44,120[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 45	组数据 : 6.70820393249937
+
+2019-07-19 22:06:44,171[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 46	组数据 : 6.78232998312527
+
+2019-07-19 22:06:44,222[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 47	组数据 : 6.85565460040104
+
+2019-07-19 22:06:44,273[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 48	组数据 : 6.92820323027551
+
+2019-07-19 22:06:44,325[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 49	组数据 : 7
+
+2019-07-19 22:06:44,376[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 50	组数据 : 7.07106781186548
+
+2019-07-19 22:06:44,427[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 51	组数据 : 7.14142842854285
+
+2019-07-19 22:06:44,478[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 52	组数据 : 7.21110255092798
+
+2019-07-19 22:06:44,529[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 53	组数据 : 7.28010988928052
+
+2019-07-19 22:06:44,580[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 54	组数据 : 7.34846922834953
+
+2019-07-19 22:06:44,631[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 55	组数据 : 7.41619848709566
+
+2019-07-19 22:06:44,682[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 56	组数据 : 7.48331477354788
+
+2019-07-19 22:06:44,733[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 57	组数据 : 7.54983443527075
+
+2019-07-19 22:06:44,784[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 58	组数据 : 7.61577310586391
+
+2019-07-19 22:06:44,835[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 59	组数据 : 7.68114574786861
+
+2019-07-19 22:06:44,886[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 60	组数据 : 7.74596669241483
+
+2019-07-19 22:06:44,937[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 61	组数据 : 7.81024967590665
+
+2019-07-19 22:06:44,988[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 62	组数据 : 7.87400787401181
+
+2019-07-19 22:06:45,039[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 63	组数据 : 7.93725393319377
+
+2019-07-19 22:06:45,090[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 64	组数据 : 8
+
+2019-07-19 22:06:45,141[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 65	组数据 : 8.06225774829855
+
+2019-07-19 22:06:45,192[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 66	组数据 : 8.12403840463596
+
+2019-07-19 22:06:45,243[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 67	组数据 : 8.18535277187245
+
+2019-07-19 22:06:45,294[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 68	组数据 : 8.24621125123532
+
+2019-07-19 22:06:45,345[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 69	组数据 : 8.30662386291807
+
+2019-07-19 22:06:45,396[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 70	组数据 : 8.36660026534076
+
+2019-07-19 22:06:45,447[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 71	组数据 : 8.42614977317636
+
+2019-07-19 22:06:45,498[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 72	组数据 : 8.48528137423857
+
+2019-07-19 22:06:45,549[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 73	组数据 : 8.54400374531753
+
+2019-07-19 22:06:45,601[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 74	组数据 : 8.60232526704263
+
+2019-07-19 22:06:45,652[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 75	组数据 : 8.66025403784439
+
+2019-07-19 22:06:45,703[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 76	组数据 : 8.71779788708135
+
+2019-07-19 22:06:45,754[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 77	组数据 : 8.77496438739212
+
+2019-07-19 22:06:45,805[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 78	组数据 : 8.83176086632785
+
+2019-07-19 22:06:45,857[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 79	组数据 : 8.88819441731559
+
+2019-07-19 22:06:45,908[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 80	组数据 : 8.94427190999916
+
+2019-07-19 22:06:45,959[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 81	组数据 : 9
+
+2019-07-19 22:06:46,010[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 82	组数据 : 9.05538513813742
+
+2019-07-19 22:06:46,061[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 83	组数据 : 9.1104335791443
+
+2019-07-19 22:06:46,112[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 84	组数据 : 9.16515138991168
+
+2019-07-19 22:06:46,163[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 85	组数据 : 9.21954445729289
+
+2019-07-19 22:06:46,214[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 86	组数据 : 9.2736184954957
+
+2019-07-19 22:06:46,265[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 87	组数据 : 9.32737905308882
+
+2019-07-19 22:06:46,316[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 88	组数据 : 9.38083151964686
+
+2019-07-19 22:06:46,368[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 89	组数据 : 9.4339811320566
+
+2019-07-19 22:06:46,418[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 90	组数据 : 9.48683298050514
+
+2019-07-19 22:06:46,469[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 91	组数据 : 9.53939201416946
+
+2019-07-19 22:06:46,521[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 92	组数据 : 9.59166304662544
+
+2019-07-19 22:06:46,571[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 93	组数据 : 9.64365076099295
+
+2019-07-19 22:06:46,622[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 94	组数据 : 9.69535971483266
+
+2019-07-19 22:06:46,673[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 95	组数据 : 9.74679434480896
+
+2019-07-19 22:06:46,725[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 96	组数据 : 9.79795897113271
+
+2019-07-19 22:06:46,776[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 97	组数据 : 9.8488578017961
+
+2019-07-19 22:06:46,827[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 98	组数据 : 9.89949493661167
+
+2019-07-19 22:06:46,878[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 99	组数据 : 9.9498743710662
+
+2019-07-19 22:06:46,929[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:166)
+试验结束,请打印实验报告...
+
+2019-07-19 22:10:58,736[DEBUG]
+fMainProj.Local.SharedBase.Start(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:101)
+试验开始
+
+2019-07-19 22:10:58,737[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:144)
+试验开始...
+
+2019-07-19 22:10:58,757[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 0	组数据 : 0
+
+2019-07-19 22:10:58,757[DEBUG]
+fMainProj.MainForm.OnTestStart_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:91)
+试验开始
+
+2019-07-19 22:10:58,808[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 1	组数据 : 1
+
+2019-07-19 22:10:58,859[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 2	组数据 : 1.4142135623731
+
+2019-07-19 22:10:58,910[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 3	组数据 : 1.73205080756888
+
+2019-07-19 22:10:58,961[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 4	组数据 : 2
+
+2019-07-19 22:10:59,012[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 5	组数据 : 2.23606797749979
+
+2019-07-19 22:10:59,063[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 6	组数据 : 2.44948974278318
+
+2019-07-19 22:10:59,115[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 7	组数据 : 2.64575131106459
+
+2019-07-19 22:10:59,166[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 8	组数据 : 2.82842712474619
+
+2019-07-19 22:10:59,217[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 9	组数据 : 3
+
+2019-07-19 22:10:59,268[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 10	组数据 : 3.16227766016838
+
+2019-07-19 22:10:59,320[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 11	组数据 : 3.3166247903554
+
+2019-07-19 22:10:59,373[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 12	组数据 : 3.46410161513775
+
+2019-07-19 22:10:59,424[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 13	组数据 : 3.60555127546399
+
+2019-07-19 22:10:59,475[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 14	组数据 : 3.74165738677394
+
+2019-07-19 22:10:59,526[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 15	组数据 : 3.87298334620742
+
+2019-07-19 22:10:59,578[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 16	组数据 : 4
+
+2019-07-19 22:10:59,629[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 17	组数据 : 4.12310562561766
+
+2019-07-19 22:10:59,680[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 18	组数据 : 4.24264068711928
+
+2019-07-19 22:10:59,731[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 19	组数据 : 4.35889894354067
+
+2019-07-19 22:10:59,783[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 20	组数据 : 4.47213595499958
+
+2019-07-19 22:10:59,834[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 21	组数据 : 4.58257569495584
+
+2019-07-19 22:10:59,885[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 22	组数据 : 4.69041575982343
+
+2019-07-19 22:10:59,936[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 23	组数据 : 4.79583152331272
+
+2019-07-19 22:10:59,987[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 24	组数据 : 4.89897948556636
+
+2019-07-19 22:11:00,038[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 25	组数据 : 5
+
+2019-07-19 22:11:00,089[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 26	组数据 : 5.09901951359278
+
+2019-07-19 22:11:00,140[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 27	组数据 : 5.19615242270663
+
+2019-07-19 22:11:00,191[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 28	组数据 : 5.29150262212918
+
+2019-07-19 22:11:00,243[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 29	组数据 : 5.3851648071345
+
+2019-07-19 22:11:00,294[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 30	组数据 : 5.47722557505166
+
+2019-07-19 22:11:00,345[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 31	组数据 : 5.56776436283002
+
+2019-07-19 22:11:00,396[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 32	组数据 : 5.65685424949238
+
+2019-07-19 22:11:00,447[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 33	组数据 : 5.74456264653803
+
+2019-07-19 22:11:00,498[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 34	组数据 : 5.8309518948453
+
+2019-07-19 22:11:00,549[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 35	组数据 : 5.91607978309962
+
+2019-07-19 22:11:00,600[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 36	组数据 : 6
+
+2019-07-19 22:11:00,651[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 37	组数据 : 6.08276253029822
+
+2019-07-19 22:11:00,702[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 38	组数据 : 6.16441400296898
+
+2019-07-19 22:11:00,754[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 39	组数据 : 6.2449979983984
+
+2019-07-19 22:11:00,805[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 40	组数据 : 6.32455532033676
+
+2019-07-19 22:11:00,856[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 41	组数据 : 6.40312423743285
+
+2019-07-19 22:11:00,907[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 42	组数据 : 6.48074069840786
+
+2019-07-19 22:11:00,960[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 43	组数据 : 6.557438524302
+
+2019-07-19 22:11:01,012[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 44	组数据 : 6.6332495807108
+
+2019-07-19 22:11:01,063[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 45	组数据 : 6.70820393249937
+
+2019-07-19 22:11:01,114[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 46	组数据 : 6.78232998312527
+
+2019-07-19 22:11:01,165[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 47	组数据 : 6.85565460040104
+
+2019-07-19 22:11:01,216[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 48	组数据 : 6.92820323027551
+
+2019-07-19 22:11:01,267[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 49	组数据 : 7
+
+2019-07-19 22:11:01,318[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 50	组数据 : 7.07106781186548
+
+2019-07-19 22:11:01,369[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 51	组数据 : 7.14142842854285
+
+2019-07-19 22:11:01,420[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 52	组数据 : 7.21110255092798
+
+2019-07-19 22:11:01,471[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 53	组数据 : 7.28010988928052
+
+2019-07-19 22:11:01,522[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 54	组数据 : 7.34846922834953
+
+2019-07-19 22:11:01,573[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 55	组数据 : 7.41619848709566
+
+2019-07-19 22:11:01,624[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 56	组数据 : 7.48331477354788
+
+2019-07-19 22:11:01,675[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 57	组数据 : 7.54983443527075
+
+2019-07-19 22:11:01,728[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 58	组数据 : 7.61577310586391
+
+2019-07-19 22:11:01,779[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 59	组数据 : 7.68114574786861
+
+2019-07-19 22:11:01,830[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 60	组数据 : 7.74596669241483
+
+2019-07-19 22:11:01,881[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 61	组数据 : 7.81024967590665
+
+2019-07-19 22:11:01,932[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 62	组数据 : 7.87400787401181
+
+2019-07-19 22:11:01,987[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 63	组数据 : 7.93725393319377
+
+2019-07-19 22:11:02,038[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 64	组数据 : 8
+
+2019-07-19 22:11:02,089[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 65	组数据 : 8.06225774829855
+
+2019-07-19 22:11:02,140[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 66	组数据 : 8.12403840463596
+
+2019-07-19 22:11:02,191[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 67	组数据 : 8.18535277187245
+
+2019-07-19 22:11:02,242[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 68	组数据 : 8.24621125123532
+
+2019-07-19 22:11:02,293[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 69	组数据 : 8.30662386291807
+
+2019-07-19 22:11:02,344[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 70	组数据 : 8.36660026534076
+
+2019-07-19 22:11:02,395[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 71	组数据 : 8.42614977317636
+
+2019-07-19 22:11:02,446[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 72	组数据 : 8.48528137423857
+
+2019-07-19 22:11:02,497[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 73	组数据 : 8.54400374531753
+
+2019-07-19 22:11:02,548[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 74	组数据 : 8.60232526704263
+
+2019-07-19 22:11:02,601[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 75	组数据 : 8.66025403784439
+
+2019-07-19 22:11:02,652[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 76	组数据 : 8.71779788708135
+
+2019-07-19 22:11:02,703[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 77	组数据 : 8.77496438739212
+
+2019-07-19 22:11:02,755[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 78	组数据 : 8.83176086632785
+
+2019-07-19 22:11:02,806[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 79	组数据 : 8.88819441731559
+
+2019-07-19 22:11:02,857[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 80	组数据 : 8.94427190999916
+
+2019-07-19 22:11:02,908[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 81	组数据 : 9
+
+2019-07-19 22:11:02,959[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 82	组数据 : 9.05538513813742
+
+2019-07-19 22:11:03,010[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 83	组数据 : 9.1104335791443
+
+2019-07-19 22:11:03,061[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 84	组数据 : 9.16515138991168
+
+2019-07-19 22:11:03,112[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 85	组数据 : 9.21954445729289
+
+2019-07-19 22:11:03,163[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 86	组数据 : 9.2736184954957
+
+2019-07-19 22:11:03,214[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 87	组数据 : 9.32737905308882
+
+2019-07-19 22:11:03,266[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 88	组数据 : 9.38083151964686
+
+2019-07-19 22:11:03,317[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 89	组数据 : 9.4339811320566
+
+2019-07-19 22:11:03,368[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 90	组数据 : 9.48683298050514
+
+2019-07-19 22:11:03,419[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 91	组数据 : 9.53939201416946
+
+2019-07-19 22:11:03,469[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 92	组数据 : 9.59166304662544
+
+2019-07-19 22:11:03,520[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 93	组数据 : 9.64365076099295
+
+2019-07-19 22:11:03,571[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 94	组数据 : 9.69535971483266
+
+2019-07-19 22:11:03,622[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 95	组数据 : 9.74679434480896
+
+2019-07-19 22:11:03,673[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 96	组数据 : 9.79795897113271
+
+2019-07-19 22:11:03,724[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 97	组数据 : 9.8488578017961
+
+2019-07-19 22:11:03,775[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 98	组数据 : 9.89949493661167
+
+2019-07-19 22:11:03,826[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:152)
+第 99	组数据 : 9.9498743710662
+
+2019-07-19 22:11:03,877[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:166)
+试验结束,请打印实验报告...
+
+2019-07-19 22:19:44,883[DEBUG]
+fMainProj.Local.SharedBase.Start(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:96)
+试验开始
+
+2019-07-19 22:19:44,883[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:150)
+试验开始...
+
+2019-07-19 22:19:44,906[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 0	组数据 : 0
+
+2019-07-19 22:19:44,907[DEBUG]
+fMainProj.MainForm.OnTestStart_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:91)
+试验开始
+
+2019-07-19 22:19:44,959[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 1	组数据 : 1
+
+2019-07-19 22:19:45,010[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 2	组数据 : 1.4142135623731
+
+2019-07-19 22:19:45,063[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 3	组数据 : 1.73205080756888
+
+2019-07-19 22:19:45,116[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 4	组数据 : 2
+
+2019-07-19 22:19:45,167[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 5	组数据 : 2.23606797749979
+
+2019-07-19 22:19:45,218[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 6	组数据 : 2.44948974278318
+
+2019-07-19 22:19:45,269[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 7	组数据 : 2.64575131106459
+
+2019-07-19 22:19:45,320[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 8	组数据 : 2.82842712474619
+
+2019-07-19 22:19:45,371[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 9	组数据 : 3
+
+2019-07-19 22:19:45,422[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 10	组数据 : 3.16227766016838
+
+2019-07-19 22:19:45,474[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 11	组数据 : 3.3166247903554
+
+2019-07-19 22:19:45,525[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 12	组数据 : 3.46410161513775
+
+2019-07-19 22:19:45,576[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 13	组数据 : 3.60555127546399
+
+2019-07-19 22:19:45,627[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 14	组数据 : 3.74165738677394
+
+2019-07-19 22:19:45,678[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 15	组数据 : 3.87298334620742
+
+2019-07-19 22:19:45,729[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 16	组数据 : 4
+
+2019-07-19 22:19:45,781[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 17	组数据 : 4.12310562561766
+
+2019-07-19 22:19:45,832[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 18	组数据 : 4.24264068711928
+
+2019-07-19 22:19:45,883[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 19	组数据 : 4.35889894354067
+
+2019-07-19 22:19:45,934[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 20	组数据 : 4.47213595499958
+
+2019-07-19 22:19:45,985[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 21	组数据 : 4.58257569495584
+
+2019-07-19 22:19:46,036[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 22	组数据 : 4.69041575982343
+
+2019-07-19 22:19:46,087[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 23	组数据 : 4.79583152331272
+
+2019-07-19 22:19:46,139[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 24	组数据 : 4.89897948556636
+
+2019-07-19 22:19:46,190[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 25	组数据 : 5
+
+2019-07-19 22:19:46,241[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 26	组数据 : 5.09901951359278
+
+2019-07-19 22:19:46,292[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 27	组数据 : 5.19615242270663
+
+2019-07-19 22:19:46,344[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 28	组数据 : 5.29150262212918
+
+2019-07-19 22:19:46,395[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 29	组数据 : 5.3851648071345
+
+2019-07-19 22:19:46,446[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 30	组数据 : 5.47722557505166
+
+2019-07-19 22:19:46,497[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 31	组数据 : 5.56776436283002
+
+2019-07-19 22:19:46,548[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 32	组数据 : 5.65685424949238
+
+2019-07-19 22:19:46,599[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 33	组数据 : 5.74456264653803
+
+2019-07-19 22:19:46,650[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 34	组数据 : 5.8309518948453
+
+2019-07-19 22:19:46,702[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 35	组数据 : 5.91607978309962
+
+2019-07-19 22:19:46,753[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 36	组数据 : 6
+
+2019-07-19 22:19:46,804[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 37	组数据 : 6.08276253029822
+
+2019-07-19 22:19:46,858[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 38	组数据 : 6.16441400296898
+
+2019-07-19 22:19:46,909[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 39	组数据 : 6.2449979983984
+
+2019-07-19 22:19:46,960[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 40	组数据 : 6.32455532033676
+
+2019-07-19 22:19:47,011[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 41	组数据 : 6.40312423743285
+
+2019-07-19 22:19:47,062[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 42	组数据 : 6.48074069840786
+
+2019-07-19 22:19:47,113[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 43	组数据 : 6.557438524302
+
+2019-07-19 22:19:47,164[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 44	组数据 : 6.6332495807108
+
+2019-07-19 22:19:47,215[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 45	组数据 : 6.70820393249937
+
+2019-07-19 22:19:47,266[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 46	组数据 : 6.78232998312527
+
+2019-07-19 22:19:47,318[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 47	组数据 : 6.85565460040104
+
+2019-07-19 22:19:47,369[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 48	组数据 : 6.92820323027551
+
+2019-07-19 22:19:47,420[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 49	组数据 : 7
+
+2019-07-19 22:19:47,471[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 50	组数据 : 7.07106781186548
+
+2019-07-19 22:19:47,522[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 51	组数据 : 7.14142842854285
+
+2019-07-19 22:19:47,573[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 52	组数据 : 7.21110255092798
+
+2019-07-19 22:19:47,624[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 53	组数据 : 7.28010988928052
+
+2019-07-19 22:19:47,675[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 54	组数据 : 7.34846922834953
+
+2019-07-19 22:19:47,726[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 55	组数据 : 7.41619848709566
+
+2019-07-19 22:19:47,777[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 56	组数据 : 7.48331477354788
+
+2019-07-19 22:19:47,828[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 57	组数据 : 7.54983443527075
+
+2019-07-19 22:19:47,879[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 58	组数据 : 7.61577310586391
+
+2019-07-19 22:19:47,930[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 59	组数据 : 7.68114574786861
+
+2019-07-19 22:19:47,981[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 60	组数据 : 7.74596669241483
+
+2019-07-19 22:19:48,032[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 61	组数据 : 7.81024967590665
+
+2019-07-19 22:19:48,083[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 62	组数据 : 7.87400787401181
+
+2019-07-19 22:19:48,134[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 63	组数据 : 7.93725393319377
+
+2019-07-19 22:19:48,186[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 64	组数据 : 8
+
+2019-07-19 22:19:48,237[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 65	组数据 : 8.06225774829855
+
+2019-07-19 22:19:48,295[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 66	组数据 : 8.12403840463596
+
+2019-07-19 22:19:48,347[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 67	组数据 : 8.18535277187245
+
+2019-07-19 22:19:48,398[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 68	组数据 : 8.24621125123532
+
+2019-07-19 22:19:48,449[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 69	组数据 : 8.30662386291807
+
+2019-07-19 22:19:48,500[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 70	组数据 : 8.36660026534076
+
+2019-07-19 22:19:48,552[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 71	组数据 : 8.42614977317636
+
+2019-07-19 22:19:48,603[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 72	组数据 : 8.48528137423857
+
+2019-07-19 22:19:48,654[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 73	组数据 : 8.54400374531753
+
+2019-07-19 22:19:48,705[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 74	组数据 : 8.60232526704263
+
+2019-07-19 22:19:48,756[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 75	组数据 : 8.66025403784439
+
+2019-07-19 22:19:48,808[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 76	组数据 : 8.71779788708135
+
+2019-07-19 22:19:48,859[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 77	组数据 : 8.77496438739212
+
+2019-07-19 22:19:48,910[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 78	组数据 : 8.83176086632785
+
+2019-07-19 22:19:48,961[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 79	组数据 : 8.88819441731559
+
+2019-07-19 22:19:49,012[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 80	组数据 : 8.94427190999916
+
+2019-07-19 22:19:49,063[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 81	组数据 : 9
+
+2019-07-19 22:19:49,114[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 82	组数据 : 9.05538513813742
+
+2019-07-19 22:19:49,165[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 83	组数据 : 9.1104335791443
+
+2019-07-19 22:19:49,217[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 84	组数据 : 9.16515138991168
+
+2019-07-19 22:19:49,268[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 85	组数据 : 9.21954445729289
+
+2019-07-19 22:19:49,319[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 86	组数据 : 9.2736184954957
+
+2019-07-19 22:19:49,370[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 87	组数据 : 9.32737905308882
+
+2019-07-19 22:19:49,421[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 88	组数据 : 9.38083151964686
+
+2019-07-19 22:19:49,472[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 89	组数据 : 9.4339811320566
+
+2019-07-19 22:19:49,523[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 90	组数据 : 9.48683298050514
+
+2019-07-19 22:19:49,574[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 91	组数据 : 9.53939201416946
+
+2019-07-19 22:19:49,626[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 92	组数据 : 9.59166304662544
+
+2019-07-19 22:19:49,677[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 93	组数据 : 9.64365076099295
+
+2019-07-19 22:19:49,734[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 94	组数据 : 9.69535971483266
+
+2019-07-19 22:19:49,786[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 95	组数据 : 9.74679434480896
+
+2019-07-19 22:19:49,837[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 96	组数据 : 9.79795897113271
+
+2019-07-19 22:19:49,888[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 97	组数据 : 9.8488578017961
+
+2019-07-19 22:19:49,939[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 98	组数据 : 9.89949493661167
+
+2019-07-19 22:19:49,990[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 99	组数据 : 9.9498743710662
+
+2019-07-19 22:19:50,041[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:172)
+试验结束,请打印实验报告...
+
+2019-07-19 22:19:53,835[INFO]
+fMainProj.FormZedGraphWithSingle.button1_Click(E:\5A实验台项目\DynamicCylinder\MainProj\FormCommon\FormZedGraphWithSingle.cs:66)
+曲线已保存到E:\5A实验台项目\DynamicCylinder\MainProj\bin\report\pict\缓冲试验报告曲线19-07-19 101943.bmp
+
+2019-07-19 22:19:56,647[INFO]
+fMainProj.MainForm.GenerateReport_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:136)
+正在处理数据，准备开始生成试验报告，这个过程可能持续几秒，请等待...
+
+2019-07-19 22:19:56,648[INFO]
+fMainProj.Local.SharedBase.Generate(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:154)
+正在生成试验报告
+
+2019-07-19 22:19:56,648[INFO]
+fMainProj.Local.Dynamic_Cylinder.GenerateReport(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:187)
+正在写入基础信息...
+
+2019-07-19 22:24:12,286[INFO]
+fMainProj.MainForm.GenerateReport_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:136)
+正在处理数据，准备开始生成试验报告，这个过程可能持续几秒，请等待...
+
+2019-07-19 22:24:12,318[ERROR]
+fMainProj.MainForm.GenerateReport_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:146)
+未进行试验，不能生成报告
+
+2019-07-19 22:24:14,352[DEBUG]
+fMainProj.Local.SharedBase.Start(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:96)
+试验开始
+
+2019-07-19 22:24:14,354[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:150)
+试验开始...
+
+2019-07-19 22:24:14,355[DEBUG]
+fMainProj.MainForm.OnTestStart_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:91)
+试验开始
+
+2019-07-19 22:24:14,355[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 0	组数据 : 0
+
+2019-07-19 22:24:14,406[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 1	组数据 : 1
+
+2019-07-19 22:24:14,457[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 2	组数据 : 1.4142135623731
+
+2019-07-19 22:24:14,508[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 3	组数据 : 1.73205080756888
+
+2019-07-19 22:24:14,560[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 4	组数据 : 2
+
+2019-07-19 22:24:14,611[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 5	组数据 : 2.23606797749979
+
+2019-07-19 22:24:14,662[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 6	组数据 : 2.44948974278318
+
+2019-07-19 22:24:14,713[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 7	组数据 : 2.64575131106459
+
+2019-07-19 22:24:14,764[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 8	组数据 : 2.82842712474619
+
+2019-07-19 22:24:14,815[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 9	组数据 : 3
+
+2019-07-19 22:24:14,866[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 10	组数据 : 3.16227766016838
+
+2019-07-19 22:24:14,917[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 11	组数据 : 3.3166247903554
+
+2019-07-19 22:24:14,968[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 12	组数据 : 3.46410161513775
+
+2019-07-19 22:24:15,019[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 13	组数据 : 3.60555127546399
+
+2019-07-19 22:24:15,070[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 14	组数据 : 3.74165738677394
+
+2019-07-19 22:24:15,121[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 15	组数据 : 3.87298334620742
+
+2019-07-19 22:24:15,172[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 16	组数据 : 4
+
+2019-07-19 22:24:15,223[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 17	组数据 : 4.12310562561766
+
+2019-07-19 22:24:15,273[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 18	组数据 : 4.24264068711928
+
+2019-07-19 22:24:15,328[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 19	组数据 : 4.35889894354067
+
+2019-07-19 22:24:15,380[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 20	组数据 : 4.47213595499958
+
+2019-07-19 22:24:15,431[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 21	组数据 : 4.58257569495584
+
+2019-07-19 22:24:15,482[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 22	组数据 : 4.69041575982343
+
+2019-07-19 22:24:15,532[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 23	组数据 : 4.79583152331272
+
+2019-07-19 22:24:15,583[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 24	组数据 : 4.89897948556636
+
+2019-07-19 22:24:15,634[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 25	组数据 : 5
+
+2019-07-19 22:24:15,685[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 26	组数据 : 5.09901951359278
+
+2019-07-19 22:24:15,736[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 27	组数据 : 5.19615242270663
+
+2019-07-19 22:24:15,787[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 28	组数据 : 5.29150262212918
+
+2019-07-19 22:24:15,838[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 29	组数据 : 5.3851648071345
+
+2019-07-19 22:24:15,889[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 30	组数据 : 5.47722557505166
+
+2019-07-19 22:24:15,941[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 31	组数据 : 5.56776436283002
+
+2019-07-19 22:24:15,993[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 32	组数据 : 5.65685424949238
+
+2019-07-19 22:24:16,044[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 33	组数据 : 5.74456264653803
+
+2019-07-19 22:24:16,096[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 34	组数据 : 5.8309518948453
+
+2019-07-19 22:24:16,147[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 35	组数据 : 5.91607978309962
+
+2019-07-19 22:24:16,198[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 36	组数据 : 6
+
+2019-07-19 22:24:16,250[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 37	组数据 : 6.08276253029822
+
+2019-07-19 22:24:16,301[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 38	组数据 : 6.16441400296898
+
+2019-07-19 22:24:16,351[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 39	组数据 : 6.2449979983984
+
+2019-07-19 22:24:16,403[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 40	组数据 : 6.32455532033676
+
+2019-07-19 22:24:16,454[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 41	组数据 : 6.40312423743285
+
+2019-07-19 22:24:16,506[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 42	组数据 : 6.48074069840786
+
+2019-07-19 22:24:16,557[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 43	组数据 : 6.557438524302
+
+2019-07-19 22:24:16,615[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 44	组数据 : 6.6332495807108
+
+2019-07-19 22:24:16,666[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 45	组数据 : 6.70820393249937
+
+2019-07-19 22:24:16,718[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 46	组数据 : 6.78232998312527
+
+2019-07-19 22:24:16,769[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 47	组数据 : 6.85565460040104
+
+2019-07-19 22:24:16,821[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 48	组数据 : 6.92820323027551
+
+2019-07-19 22:24:16,872[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 49	组数据 : 7
+
+2019-07-19 22:24:16,923[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 50	组数据 : 7.07106781186548
+
+2019-07-19 22:24:16,974[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 51	组数据 : 7.14142842854285
+
+2019-07-19 22:24:17,025[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 52	组数据 : 7.21110255092798
+
+2019-07-19 22:24:17,077[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 53	组数据 : 7.28010988928052
+
+2019-07-19 22:24:17,128[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 54	组数据 : 7.34846922834953
+
+2019-07-19 22:24:17,179[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 55	组数据 : 7.41619848709566
+
+2019-07-19 22:24:17,230[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 56	组数据 : 7.48331477354788
+
+2019-07-19 22:24:17,281[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 57	组数据 : 7.54983443527075
+
+2019-07-19 22:24:17,332[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 58	组数据 : 7.61577310586391
+
+2019-07-19 22:24:17,383[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 59	组数据 : 7.68114574786861
+
+2019-07-19 22:24:17,434[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 60	组数据 : 7.74596669241483
+
+2019-07-19 22:24:17,485[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 61	组数据 : 7.81024967590665
+
+2019-07-19 22:24:17,536[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 62	组数据 : 7.87400787401181
+
+2019-07-19 22:24:17,587[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 63	组数据 : 7.93725393319377
+
+2019-07-19 22:24:17,638[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 64	组数据 : 8
+
+2019-07-19 22:24:17,689[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 65	组数据 : 8.06225774829855
+
+2019-07-19 22:24:17,740[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 66	组数据 : 8.12403840463596
+
+2019-07-19 22:24:17,791[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 67	组数据 : 8.18535277187245
+
+2019-07-19 22:24:17,842[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 68	组数据 : 8.24621125123532
+
+2019-07-19 22:24:17,893[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 69	组数据 : 8.30662386291807
+
+2019-07-19 22:24:17,946[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 70	组数据 : 8.36660026534076
+
+2019-07-19 22:24:17,997[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 71	组数据 : 8.42614977317636
+
+2019-07-19 22:24:18,048[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 72	组数据 : 8.48528137423857
+
+2019-07-19 22:24:18,099[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 73	组数据 : 8.54400374531753
+
+2019-07-19 22:24:18,150[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 74	组数据 : 8.60232526704263
+
+2019-07-19 22:24:18,201[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 75	组数据 : 8.66025403784439
+
+2019-07-19 22:24:18,252[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 76	组数据 : 8.71779788708135
+
+2019-07-19 22:24:18,303[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 77	组数据 : 8.77496438739212
+
+2019-07-19 22:24:18,354[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 78	组数据 : 8.83176086632785
+
+2019-07-19 22:24:18,405[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 79	组数据 : 8.88819441731559
+
+2019-07-19 22:24:18,456[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 80	组数据 : 8.94427190999916
+
+2019-07-19 22:24:18,508[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 81	组数据 : 9
+
+2019-07-19 22:24:18,559[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 82	组数据 : 9.05538513813742
+
+2019-07-19 22:24:18,610[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 83	组数据 : 9.1104335791443
+
+2019-07-19 22:24:18,681[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 84	组数据 : 9.16515138991168
+
+2019-07-19 22:24:18,732[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 85	组数据 : 9.21954445729289
+
+2019-07-19 22:24:18,783[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 86	组数据 : 9.2736184954957
+
+2019-07-19 22:24:18,834[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 87	组数据 : 9.32737905308882
+
+2019-07-19 22:24:18,885[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 88	组数据 : 9.38083151964686
+
+2019-07-19 22:24:18,936[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 89	组数据 : 9.4339811320566
+
+2019-07-19 22:24:18,987[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 90	组数据 : 9.48683298050514
+
+2019-07-19 22:24:19,038[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 91	组数据 : 9.53939201416946
+
+2019-07-19 22:24:19,089[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 92	组数据 : 9.59166304662544
+
+2019-07-19 22:24:19,140[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 93	组数据 : 9.64365076099295
+
+2019-07-19 22:24:19,191[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 94	组数据 : 9.69535971483266
+
+2019-07-19 22:24:19,243[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 95	组数据 : 9.74679434480896
+
+2019-07-19 22:24:19,294[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 96	组数据 : 9.79795897113271
+
+2019-07-19 22:24:19,344[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 97	组数据 : 9.8488578017961
+
+2019-07-19 22:24:19,395[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 98	组数据 : 9.89949493661167
+
+2019-07-19 22:24:19,447[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 99	组数据 : 9.9498743710662
+
+2019-07-19 22:24:19,499[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:172)
+试验结束,请打印实验报告...
+
+2019-07-19 22:24:24,186[INFO]
+fMainProj.MainForm.GenerateReport_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:136)
+正在处理数据，准备开始生成试验报告，这个过程可能持续几秒，请等待...
+
+2019-07-19 22:24:24,186[INFO]
+fMainProj.Local.SharedBase.Generate(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:154)
+正在生成试验报告
+
+2019-07-19 22:24:24,187[INFO]
+fMainProj.Local.Dynamic_Cylinder.GenerateReport(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:187)
+正在写入基础信息...
+
+2019-07-19 22:24:24,187[ERROR]
+fMainProj.Local.Dynamic_Cylinder.GenerateReport(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:203)
+因为本次实验没有保存图片，无法生成试验报告
+
+2019-07-19 22:24:24,187[INFO]
+fMainProj.Local.SharedBase.Generate(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:156)
+报告已生成
+
+2019-07-19 22:24:31,179[INFO]
+fMainProj.MainForm.GenerateReport_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:136)
+正在处理数据，准备开始生成试验报告，这个过程可能持续几秒，请等待...
+
+2019-07-19 22:24:31,180[INFO]
+fMainProj.Local.SharedBase.Generate(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:154)
+正在生成试验报告
+
+2019-07-19 22:24:31,180[INFO]
+fMainProj.Local.Dynamic_Cylinder.GenerateReport(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:187)
+正在写入基础信息...
+
+2019-07-19 22:24:31,180[ERROR]
+fMainProj.Local.Dynamic_Cylinder.GenerateReport(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:203)
+因为本次实验没有保存图片，无法生成试验报告
+
+2019-07-19 22:24:31,180[INFO]
+fMainProj.Local.SharedBase.Generate(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:156)
+报告已生成
+
+2019-07-19 22:27:52,672[DEBUG]
+fMainProj.Local.SharedBase.Start(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\SharedBase.cs:96)
+试验开始
+
+2019-07-19 22:27:52,673[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:150)
+试验开始...
+
+2019-07-19 22:27:52,695[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 0	组数据 : 0
+
+2019-07-19 22:27:52,696[DEBUG]
+fMainProj.MainForm.OnTestStart_Click(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\MainForm.cs:91)
+试验开始
+
+2019-07-19 22:27:52,747[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 1	组数据 : 1
+
+2019-07-19 22:27:52,798[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 2	组数据 : 1.4142135623731
+
+2019-07-19 22:27:52,849[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 3	组数据 : 1.73205080756888
+
+2019-07-19 22:27:52,900[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 4	组数据 : 2
+
+2019-07-19 22:27:52,951[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 5	组数据 : 2.23606797749979
+
+2019-07-19 22:27:53,005[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 6	组数据 : 2.44948974278318
+
+2019-07-19 22:27:53,056[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 7	组数据 : 2.64575131106459
+
+2019-07-19 22:27:53,108[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 8	组数据 : 2.82842712474619
+
+2019-07-19 22:27:53,159[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 9	组数据 : 3
+
+2019-07-19 22:27:53,211[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 10	组数据 : 3.16227766016838
+
+2019-07-19 22:27:53,262[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 11	组数据 : 3.3166247903554
+
+2019-07-19 22:27:53,313[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 12	组数据 : 3.46410161513775
+
+2019-07-19 22:27:53,364[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 13	组数据 : 3.60555127546399
+
+2019-07-19 22:27:53,415[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 14	组数据 : 3.74165738677394
+
+2019-07-19 22:27:53,466[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 15	组数据 : 3.87298334620742
+
+2019-07-19 22:27:53,517[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 16	组数据 : 4
+
+2019-07-19 22:27:53,568[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 17	组数据 : 4.12310562561766
+
+2019-07-19 22:27:53,619[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 18	组数据 : 4.24264068711928
+
+2019-07-19 22:27:53,670[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 19	组数据 : 4.35889894354067
+
+2019-07-19 22:27:53,721[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 20	组数据 : 4.47213595499958
+
+2019-07-19 22:27:53,772[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 21	组数据 : 4.58257569495584
+
+2019-07-19 22:27:53,823[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 22	组数据 : 4.69041575982343
+
+2019-07-19 22:27:53,874[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 23	组数据 : 4.79583152331272
+
+2019-07-19 22:27:53,925[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 24	组数据 : 4.89897948556636
+
+2019-07-19 22:27:53,976[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 25	组数据 : 5
+
+2019-07-19 22:27:54,027[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 26	组数据 : 5.09901951359278
+
+2019-07-19 22:27:54,078[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 27	组数据 : 5.19615242270663
+
+2019-07-19 22:27:54,129[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 28	组数据 : 5.29150262212918
+
+2019-07-19 22:27:54,180[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 29	组数据 : 5.3851648071345
+
+2019-07-19 22:27:54,231[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 30	组数据 : 5.47722557505166
+
+2019-07-19 22:27:54,282[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 31	组数据 : 5.56776436283002
+
+2019-07-19 22:27:54,333[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 32	组数据 : 5.65685424949238
+
+2019-07-19 22:27:54,384[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 33	组数据 : 5.74456264653803
+
+2019-07-19 22:27:54,435[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 34	组数据 : 5.8309518948453
+
+2019-07-19 22:27:54,486[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(E:\5A实验台项目\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:158)
+第 35	组数据 : 5.91607978309962
+
+2019-07-19 22:27:54,537[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(:0)
+第 36	组数据 : 6
+
