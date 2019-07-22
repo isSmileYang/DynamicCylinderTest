@@ -58,7 +58,8 @@ namespace MainProj
         }
 
         #endregion
-
+        //模拟曲线的随机生成数
+        Random rNumber = new Random();
         #region button event
         // 试验配置按钮
         private void OnChoose(object sender, EventArgs e)
@@ -69,15 +70,18 @@ namespace MainProj
             if (checkedListBox.SelectedIndex == 0)
             {
                 this.currentTest.StartWorkTest();
+               
             }
             else if (checkedListBox.SelectedIndex == 1)
             {
                 this.currentTest.StartPressureTest();
-
+               test = 2;
             }
             else if (checkedListBox.SelectedIndex == 2)
             {
                 this.currentTest.PressTest();
+               // int r1 = rNumber.Next(1, 10);
+               // dataScanner1.VarName = server.InstantRead<double>("压力传感器PS1").ToString();
 
             }
             else if (checkedListBox.SelectedIndex == 3)
@@ -94,7 +98,6 @@ namespace MainProj
             else if (checkedListBox.SelectedIndex == 6)
             {
                 MessageBox.Show("请调节RF1溢流阀压力为5Mpa", "进入缓冲试验");
-                //this.currentTest.Items.Add(TestType.缓冲试验);
                 MainForm.test = 6;
                 AllowTest();
             }
@@ -104,11 +107,8 @@ namespace MainProj
             }
             else if (checkedListBox.SelectedIndex == 8)
             {
-               // this.currentTest.LoadEfficiencyTest();
                 MainForm.test = 8;
                 AllowTest();
-                // this.currentTest.Items.Add(TestType.负载效率试验);
-                // this.Close();
             }
             else if (checkedListBox.SelectedIndex == 9)
             {
@@ -288,6 +288,8 @@ namespace MainProj
         {
 
         }
+
+       
     }
 }
 #endregion

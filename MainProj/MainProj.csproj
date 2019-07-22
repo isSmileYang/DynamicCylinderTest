@@ -45,22 +45,23 @@
     </Reference>
     <Reference Include="HyTestEtherCAT, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\lib\HyTestEtherCAT.dll</HintPath>
+      <HintPath>C:\Users\ASUS\Desktop\lib\HyTestEtherCAT.dll</HintPath>
     </Reference>
-    <Reference Include="HyTestEthercatDriver">
-      <HintPath>..\..\lib\HyTestEthercatDriver.dll</HintPath>
+    <Reference Include="HyTestEthercatDriver, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\ASUS\Desktop\lib\HyTestEthercatDriver.dll</HintPath>
     </Reference>
     <Reference Include="HyTestIEInterface, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\lib\HyTestIEInterface.dll</HintPath>
+      <HintPath>C:\Users\ASUS\Desktop\lib\HyTestIEInterface.dll</HintPath>
     </Reference>
     <Reference Include="HyTestRTDataService, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\lib\HyTestRTDataService.dll</HintPath>
+      <HintPath>C:\Users\ASUS\Desktop\lib\HyTestRTDataService.dll</HintPath>
     </Reference>
-    <Reference Include="LBIndustrialCtrls, Version=2.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="LBIndustrialCtrls, Version=2.1.0.0, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\lib\LBIndustrialCtrls.dll</HintPath>
+      <HintPath>C:\Users\ASUS\Desktop\lib\LBIndustrialCtrls.dll</HintPath>
     </Reference>
     <Reference Include="log4net">
       <HintPath>..\lib\log4net.dll</HintPath>

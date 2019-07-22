@@ -99,12 +99,12 @@
             this.label15 = new System.Windows.Forms.Label();
             this.label16 = new System.Windows.Forms.Label();
             this.label17 = new System.Windows.Forms.Label();
+            this.tabPage1 = new System.Windows.Forms.TabPage();
             this.richTextBoxLog = new System.Windows.Forms.RichTextBox();
             this.PcHeartBeatTimer = new System.Windows.Forms.Timer(this.components);
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.timer2 = new System.Windows.Forms.Timer(this.components);
             this.试验类型列表BindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.tabPage1 = new System.Windows.Forms.TabPage();
             this.toolStrip1.SuspendLayout();
             this.toolStrip2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
@@ -592,7 +592,7 @@
             this.dataScanner4.Name = "dataScanner4";
             this.dataScanner4.Size = new System.Drawing.Size(121, 60);
             this.dataScanner4.TabIndex = 104;
-            this.dataScanner4.VarName = "AI1";
+            this.dataScanner4.VarName = "拉压力传感器WY1";
             // 
             // dataScanner3
             // 
@@ -601,25 +601,26 @@
             this.dataScanner3.Name = "dataScanner3";
             this.dataScanner3.Size = new System.Drawing.Size(121, 37);
             this.dataScanner3.TabIndex = 103;
-            this.dataScanner3.VarName = "AI1";
+            this.dataScanner3.VarName = "位移传感器LVDT";
+            
             // 
             // dataScanner2
             // 
-            this.dataScanner2.Location = new System.Drawing.Point(53, 75);
+            this.dataScanner2.Location = new System.Drawing.Point(57, 149);
             this.dataScanner2.Margin = new System.Windows.Forms.Padding(7, 8, 7, 8);
             this.dataScanner2.Name = "dataScanner2";
             this.dataScanner2.Size = new System.Drawing.Size(117, 40);
             this.dataScanner2.TabIndex = 102;
-            this.dataScanner2.VarName = "AI1";
+            this.dataScanner2.VarName = "压力传感器PS1";
             // 
             // dataScanner1
             // 
-            this.dataScanner1.Location = new System.Drawing.Point(53, 156);
+            this.dataScanner1.Location = new System.Drawing.Point(54, 69);
             this.dataScanner1.Margin = new System.Windows.Forms.Padding(6, 4, 6, 4);
             this.dataScanner1.Name = "dataScanner1";
             this.dataScanner1.Size = new System.Drawing.Size(119, 40);
             this.dataScanner1.TabIndex = 101;
-            this.dataScanner1.VarName = "AI1";
+            this.dataScanner1.VarName = "压力传感器PS2";
             // 
             // label7
             // 
@@ -972,6 +973,17 @@
             this.label17.TabIndex = 106;
             this.label17.Text = "P1管路球阀";
             // 
+            // tabPage1
+            // 
+            this.tabPage1.BackgroundImage = global::MainProj.Properties.Resources.动态油缸液压原理图;
+            this.tabPage1.Location = new System.Drawing.Point(4, 29);
+            this.tabPage1.Name = "tabPage1";
+            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage1.Size = new System.Drawing.Size(962, 533);
+            this.tabPage1.TabIndex = 2;
+            this.tabPage1.Text = "电气原理图";
+            this.tabPage1.UseVisualStyleBackColor = true;
+            // 
             // richTextBoxLog
             // 
             this.richTextBoxLog.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -995,17 +1007,6 @@
             // 试验类型列表BindingSource
             // 
             this.试验类型列表BindingSource.DataMember = "试验类型列表";
-            // 
-            // tabPage1
-            // 
-            this.tabPage1.BackgroundImage = global::MainProj.Properties.Resources.动态油缸液压原理图;
-            this.tabPage1.Location = new System.Drawing.Point(4, 29);
-            this.tabPage1.Name = "tabPage1";
-            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(962, 533);
-            this.tabPage1.TabIndex = 2;
-            this.tabPage1.Text = "电气原理图";
-            this.tabPage1.UseVisualStyleBackColor = true;
             // 
             // MainForm
             // 
