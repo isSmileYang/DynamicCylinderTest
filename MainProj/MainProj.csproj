@@ -120,6 +120,12 @@
     <Compile Include="ExpParaDeter.Designer.cs">
       <DependentUpon>ExpParaDeter.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormPressure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPressure.Designer.cs">
+      <DependentUpon>FormPressure.cs</DependentUpon>
+    </Compile>
     <Compile Include="RigDynamicCylinder\FormBuffer.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -175,10 +181,10 @@
     <Compile Include="FormSetleak.designer.cs">
       <DependentUpon>FormSetleak.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormValveSelect.cs">
+    <Compile Include="RigDynamicCylinder\FormValveSelect.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormValveSelect.designer.cs">
+    <Compile Include="RigDynamicCylinder\FormValveSelect.designer.cs">
       <DependentUpon>FormValveSelect.cs</DependentUpon>
     </Compile>
     <Compile Include="FormWorkScope.cs">
@@ -220,6 +226,9 @@
     <EmbeddedResource Include="ExpParaDeter.resx">
       <DependentUpon>ExpParaDeter.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormPressure.resx">
+      <DependentUpon>FormPressure.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="RigDynamicCylinder\FormBuffer.resx">
       <DependentUpon>FormBuffer.cs</DependentUpon>
     </EmbeddedResource>
@@ -247,7 +256,7 @@
     <EmbeddedResource Include="FormSetleak.resx">
       <DependentUpon>FormSetleak.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormValveSelect.resx">
+    <EmbeddedResource Include="RigDynamicCylinder\FormValveSelect.resx">
       <DependentUpon>FormValveSelect.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>

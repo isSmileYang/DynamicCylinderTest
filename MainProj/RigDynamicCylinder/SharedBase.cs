@@ -7,28 +7,45 @@ using System.Threading.Tasks;
 using MainProj.Utils;
 using System.Windows.Forms;
 using HyTestRTDataService.RunningMode;
-using System.IO;
-using MainProj.Util;
+
 
 namespace MainProj.Local
 {
+    //所有的枚举类型都要放在外面
+    public enum TestType
+    {
+        试运转试验,
+        启动压力特性试验,
+        耐压试验,
+        耐久性试验,
+        内外泄漏试验,
+        低压下的泄漏试验,
+        缓冲试验,
+        负载效率试验,
+        行程检验,
+        频率响应试验,
+        阶跃响应试验
+    }
+    public enum RunState
+    {
+        Stopped,
+        Runing,
+        Paused
+    }
     public class SharedBase
     {
         #region
-       
+
         //画图
         protected Dictionary<string, CurvePanel> dictCurvePanel = new Dictionary<string, CurvePanel>();
         //通用试验对象
         public Thread threadTest;
         public RunningServer server = RunningServer.getServer();
-        internal bool istested = false;
-       
         //数据记录周期
         private TestRecorder recorder = new TestRecorder(500);
-        //本试验参数
-        public double 测试试验时间;
-        public double 试验最大压力;
-        
+
+        public string 模板路径;
+        public string 保存路径;
 
         protected virtual log4net.ILog LOG
         {
@@ -37,29 +54,40 @@ namespace MainProj.Local
                 return log4net.LogManager.GetLogger(this.GetType());
             }
         }
-       
-        //实验停止委托
-        private delegate void Datadelegate();
+
+
         //???
         public DateTime reporttime;
-        public List<TestType> 试验类型列表 { get; set; }
         protected byte[] testReport;
         //数据库字段
         //public int Id { get; set; }
         //public string 型号 { get; set; }
         //public string 制造商 { get; set; }
+
         //通用试验参数
         public string 实验人员;
         public string 试验时间;
         public static string 路径;
         public static string 图片路径;
-        private static string 保存路径;
-        private static string 模板路径;
+        // private static string 保存路径;
+        // private static string 模板路径;
+        //本试验参数
+        public double 测试试验时间;
+        public double 试验最大压力;
         #endregion
         public SharedBase()
         {
-           
         }
+
+        public class TestAbortException : Exception
+        {
+
+        }
+        public class AutoAbortException : Exception
+        {
+
+        }
+      
 
         public RunState GetRunState()
         {
@@ -78,7 +106,7 @@ namespace MainProj.Local
         }
 
         public void Start()
-        {       
+        {
             if (this.threadTest == null)
             {
                 threadTest = new Thread(this.Run);
@@ -87,7 +115,7 @@ namespace MainProj.Local
             {
                 threadTest.Start(new object());
             }
-            LOG.Debug("试验开始");
+            //LOG.Debug("试验开始");
         }
 
         public void SuspendTest()
@@ -136,127 +164,49 @@ namespace MainProj.Local
             LOG.Debug("试验中止");
         }
 
-        /// <summary>
-        /// 把dictionary中的数据放到指定的模板里
-        /// </summary>
-        public void Generate()
-        {
-            LOG.Info("正在生成试验报告");
-            GenerateReport();
-            LOG.Info("报告已生成");
-        }
+        // public virtual void GenerateReport()
+        // {
 
-        public virtual void GenerateReport()
-        {
-            //LOG.Info("正在写入基础信息...");
-            //Dictionary<string, string> Pict = new Dictionary<string, string>();
-            //WordHelper helper = SetReportBasicInfo(true);
 
-            //string key = "位移时间曲线";
+        //  }
 
-            //if (File.Exists(图片路径))
-            //{
-            //    Pict.Add("$动态油缸位移时间曲线$", 图片路径);
-            //    helper.Insertpicture(Pict);
-            //    LOG.Debug("正在写入图片");
 
-            // helper.SaveDocument(保存路径);
-            //}
-            //else
-            //{
-            //    LOG.Error("因为本次实验没有保存图片，无法生成试验报告");
-            //}
-        }
-  
         public virtual void Run(Object stateInfo)
         {
-           // MessageBox.Show("试验结束,请打印实验报告...");
-        }
 
-        public void SaveTestData()
-        {
-            Test test = new Test()
-            {
-                //序列号 = this.序列号,
-                //试验台 = this.试验台,
-                //设备型号 = this.型号,
-                试验时间 = System.DateTime.Now.ToString(),
-                试验数据 = recorder.dataBLOB,//实验数据二进制文件
-                试验报告 = this.testReport,//fake实验报告
-            };
-            using (LocalDbContext db = new LocalDbContext())
-            {
-                db.Set<Test>().Add(test);
-                db.SaveChanges();  //将修改持久化到存储器中
-            }
-        }
-  
-        public virtual void RunTest(TestType testType)
-        {
-            
-        }
-        
-        WordHelper helper = new WordHelper();
-        //弹出提示框，给工作人员名单
-        public virtual WordHelper SetReportBasicInfo(bool isManul)
-        {
-           
-            Dictionary<string, string> dict = new Dictionary<string, string>();
-            helper.CreateNewDocument(SharedBase.模板路径);
-            string 人员名字 = "我是谁";
-            if (isManul)
-            {
-                //窗口获取实验人员信息
-                GetInformation Inf = new GetInformation("请输入实验人员的姓名");
-                人员名字 = Inf.ShowDialog() == DialogResult.OK && Inf.Value.Length > 0 ? Inf.Value : "XXXX";
-            }
-
-            dict.Add("$人员$", 人员名字);
-            dict.Add("$日期$", DateTime.Now.ToLongDateString());
-
-            dict.Add("$试验持续时间$", this.测试试验时间.ToString() + "s");
-            dict.Add("$试验最大压力$", this.试验最大压力.ToString() + "MPa");
-
-            MessageBox.Show("缓冲油缸试验报告文档保存在项目的report中，请查收");
-            helper.InserttextValue(dict);
-            return helper;
         }
     }
-
-    public enum TestType
-    {
-         试运转试验,
-         启动压力特性试验,
-         耐压试验,
-         耐久性试验,
-         内外泄漏试验,
-         低压下的泄漏试验,
-         缓冲试验,
-         负载效率试验,
-         行程检验,
-         频率响应试验,
-         阶跃响应试验
-    }
-    public enum RunState
-    {
-        Stopped,
-        Runing,
-        Paused
-    }
-    //所有的枚举类型都要放在其中
-
-    public class TestTypeNotSupportedException : Exception
-    {
-
-    }
-
-    public class TestAbortException : Exception
-    {
-
-    }
-    public class AutoAbortException : Exception
-    {
-
-    }
-
 }
+
+
+        // public virtual void RunTest(TestType testType)
+        // {
+
+        // }
+
+       // WordHelper helper = new WordHelper();
+        //弹出提示框，给工作人员名单
+       //  public virtual WordHelper SetReportBasicInfo(bool isManul)
+       //  {
+
+        //Dictionary<string, string> dict = new Dictionary<string, string>();
+        //helper.CreateNewDocument(SharedBase.模板路径);
+        //string 人员名字 = "我是谁";
+        //if (isManul)
+        //{
+        //    //窗口获取实验人员信息
+        //    GetInformation Inf = new GetInformation("请输入实验人员的姓名");
+        //    人员名字 = Inf.ShowDialog() == DialogResult.OK && Inf.Value.Length > 0 ? Inf.Value : "XXXX";
+        //}
+
+        //dict.Add("$人员$", 人员名字);
+        //dict.Add("$日期$", DateTime.Now.ToLongDateString());
+
+        //dict.Add("$试验持续时间$", this.测试试验时间.ToString() + "s");
+        //dict.Add("$试验最大压力$", this.试验最大压力.ToString() + "MPa");
+
+        //MessageBox.Show("缓冲油缸试验报告文档保存在项目的report中，请查收");
+        //helper.InserttextValue(dict);
+       
+   // }
+

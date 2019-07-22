@@ -19,15 +19,12 @@ namespace MainProj
         
         ILog LOG = LogManager.GetLogger(typeof(FormConfig));
         public RunningServer server = RunningServer.getServer();
-        public double 负载模拟输出力;
-        public double 被试油缸的压力;
-        public double 需要的模拟质量值;
 
-    
         public FormConfig()
         {
             InitializeComponent();
             this.StartPosition = FormStartPosition.CenterScreen;
+            timer1.Interval = 1000;
         }
         /// <summary>
         /// 测试Label显示实时数据
@@ -39,25 +36,7 @@ namespace MainProj
         private void ConfigForm_Load(object sender, EventArgs e)
         {
         }
-
-        //private void button大缸伸出预备_Click(object sender, EventArgs e)
-        //{
-        //    ///试验暂停          
-        //    if (DS2_a == true)
-        //    {
-        //        DS2_a = false;
-        //        //server.NormalWrite<int>("DS2-a", 1);
-
-        //    }
-        //    else if (DS2_a == false)
-        //    {
-        //        //server.NormalWrite<int>("DS2-a", 0);
-        //        DS2_a = true;
-
-        //    }
-
-        //}
-        //点击按钮就可以有最小值
+    
       
         private void 记录小腔最低启动压力_Click(object sender, EventArgs e)
         {

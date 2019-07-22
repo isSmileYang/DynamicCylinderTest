@@ -85,7 +85,7 @@ namespace MainProj.Local
                 else if (i == 1) { row[i++] = System.DateTime.Now; }
                 else
                 {
-                    row[i++] = server.NormalRead<double>(kvp.Key);//只记录double类型？
+                   // row[i++] = server.NormalRead<double>(kvp.Key);//只记录double类型？
                 }
             }
             table.Rows.Add(row);

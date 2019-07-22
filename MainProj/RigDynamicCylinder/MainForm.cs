@@ -17,11 +17,11 @@ namespace MainProj
         private RunningServer server = RunningServer.getServer();
         //暂停/继续按键次数
         private int flag = 0;
+       
         //画图类里的变量
         FormZedGraphWithSingle graphForm;
 
-        TestType test;
-
+        public static int test=0;
         private delegate void Datadelegate();
         //基类的对象，必须在某个方法里实例化之后才能有所作为（选择在窗体加载时）
         private Dynamic_Cylinder currentTest = null;
@@ -35,6 +35,12 @@ namespace MainProj
             //连接通道
             server.Run();
             //计时器++开始
+
+            foreach (TestType xt in Dynamic_Cylinder.GetSupportedTestType())
+            {
+                this.checkedListBox.Items.Add(xt);
+
+            }
         }
 
         #region form event
@@ -44,7 +50,6 @@ namespace MainProj
             timer2.Start();
             //窗体加载时子类对象实例化为非空
             this.currentTest = new Dynamic_Cylinder();
-
         }
 
         private void MainForm_FormClosing(object sender, FormClosingEventArgs e)
@@ -58,16 +63,67 @@ namespace MainProj
         // 试验配置按钮
         private void OnChoose(object sender, EventArgs e)
         {
-            FormValveSelect frm = new FormValveSelect();
-            if(frm.ShowDialog() == DialogResult.OK)
+            //选择实验界面实例变量
+            //FormValveSelect frm = new FormValveSelect();
+            this.currentTest = new Dynamic_Cylinder();
+            if (checkedListBox.SelectedIndex == 0)
             {
-                if (frm.currentTest == null) return;
-                this.currentTest = frm.currentTest;
+                this.currentTest.StartWorkTest();
+            }
+            else if (checkedListBox.SelectedIndex == 1)
+            {
+                this.currentTest.StartPressureTest();
+
+            }
+            else if (checkedListBox.SelectedIndex == 2)
+            {
+                this.currentTest.PressTest();
+
+            }
+            else if (checkedListBox.SelectedIndex == 3)
+            {
+                this.currentTest.EnduranceTest();
+            }
+            else if (checkedListBox.SelectedIndex == 4)
+            {
+            }
+            else if (checkedListBox.SelectedIndex == 5)
+            {
+
+            }
+            else if (checkedListBox.SelectedIndex == 6)
+            {
+                MessageBox.Show("请调节RF1溢流阀压力为5Mpa", "进入缓冲试验");
+                //this.currentTest.Items.Add(TestType.缓冲试验);
+                MainForm.test = 6;
                 AllowTest();
             }
-         
-        //如果点击取消，没事儿
-    
+            else if (checkedListBox.SelectedIndex == 7)
+            {
+
+            }
+            else if (checkedListBox.SelectedIndex == 8)
+            {
+               // this.currentTest.LoadEfficiencyTest();
+                MainForm.test = 8;
+                AllowTest();
+                // this.currentTest.Items.Add(TestType.负载效率试验);
+                // this.Close();
+            }
+            else if (checkedListBox.SelectedIndex == 9)
+            {
+                
+               // this.currentTest.LoadEfficiencyTest();
+              //  AllowTest();
+              //  MainForm.test = 8;
+
+            }
+            else if (checkedListBox.SelectedIndex == 10)
+            {
+                //this.currentTest.testTypes.Add(TestType.负载效率试验);
+                this.currentTest.LoadEfficiencyTest();
+
+            }
         }
         // 试验开始按钮
         private void OnTestStart_Click(object sender, EventArgs e)
@@ -78,21 +134,21 @@ namespace MainProj
                 log.Debug("currentTest=null");
                 return;
             }
-            this.currentTest.Start();    //试验开始 
-            //
-            this.currentTest.TestEndEvent += OnTestEnd;
-            this.AllowTest();
-            //要启动实验的生成报告时
 
+            this.currentTest.Start();    //试验开始 
+            this.currentTest.TestEndEvent += OnTestEnd;
+            //要启动实验的生成报告时
+            this.AllowTest();
+            
             flag = 0;//将暂停继续按钮恢复到暂停状态       
 
             this.toolStripButtonStart.Enabled = false;
             this.toolStripButtonPause.Enabled = true;
             this.toolStripButtonStop.Enabled = true;
             this.toolStripButtonPause.Text = "暂停";
-
-            log.Debug("试验开始");
             //通知连接服务，试验开始
+            //log.Debug("试验开始");
+
 
 
         }
@@ -124,7 +180,7 @@ namespace MainProj
             log.Info("试验停止");
             this.toolStripButtonStop.Enabled = false;
             this.toolStripButtonPause.Enabled = false;
-            this.toolStripButtonStart.Enabled = false;// true;
+            this.toolStripButtonStart.Enabled = false;
         }
         //debug按钮
         private void OnDebug_Click(object sender, EventArgs e)
@@ -189,7 +245,7 @@ namespace MainProj
 
 
         /// <summary>
-        ///  结束实验开始画图
+        ///  实验图生成并展示
         /// </summary>
         private void OnTestEnd()
         {
@@ -228,27 +284,10 @@ namespace MainProj
 
         }
 
-        //private void button2_Click(object sender, EventArgs e)
-        //{
-        //    m_IsFullScreen = !m_IsFullScreen;//点一次全屏，再点还原。  
-        //    this.SuspendLayout();
-        //    if (m_IsFullScreen)//全屏 
-        //    {
-        //        //SetFormFullScreen(m_IsFullScreen);
-        //        this.WindowState = FormWindowState.Maximized;
-        //        this.FormBorderStyle = FormBorderStyle.None;
-        //        this.Activate();
-        //    }
-        //    else//还原 TODO:还原后的窗体应该与全屏前的大小一致
-        //    {
-        //       // this.Size = new Size(Width_, Height_);
-        //        this.FormBorderStyle = FormBorderStyle.Sizable;
-        //        this.WindowState = FormWindowState.Normal;
-        //        //SetFormFullScreen(m_IsFullScreen);
-        //        this.Activate();
-        //    }
-        //    this.ResumeLayout(false);
-        //}
+        private void checkedListBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 #endregion
