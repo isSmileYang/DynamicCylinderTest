@@ -28,24 +28,18 @@ namespace MainProj.Local
         private TestRecorder recorder = new TestRecorder(500);
         //list类型的实例变量试验类型列表
         public List<TestType> 试验类型列表 { get; set; }
+        //？？？
         public List<TestType> 试验类型 = new List<TestType>();
-        //用来插图和插入文字的两个实例变量
-        //Dictionary<string, string> Pict = new Dictionary<string, string>();
-        Dictionary<string, string> dict = new Dictionary<string, string>();
+        Dictionary<string, string> Pict = new Dictionary<string, string>();
+
         //判断是否做了实验
         internal bool istested = false;
 
         //试验曲线变量实例化
         public GraphInfo testGraphInfo;
-        //启动压力试验的实例
-       
         //选择试验界面实例变量
-        // public FormValveSelect fs = new FormValveSelect();
-        //本试验参数
-        public double 测试试验时间;
-        public double 大腔启动压力;
-        public double 小腔启动压力;
-
+       // public FormValveSelect fs = new FormValveSelect();
+        
         public string 模板路径;
         public string 保存路径;
         public  string 元件名称
@@ -57,32 +51,35 @@ namespace MainProj.Local
         }
 
         public Dynamic_Cylinder()
-        { 
+        {
+          //  if (this.试验类型列表 == null)
+           // {
+            //    this.试验类型列表 = new List<TestType>();
+           // }
             路径 = Path.GetFullPath("..");
-            保存路径 = 路径 + "\\report\\动态油缸试验报告.docx";
             模板路径 = 路径 + "\\template\\动态油缸试验报告模板.docx";
+            保存路径 = 路径 + "\\report\\动态油缸试验报告.docx";
+           // 图片路径 = 路径 + "\\report\\pict\\动态油缸缓冲试验曲线" + DateTime.Now.ToString("yy-MM-dd hhmmss") + ".bmp";
+           // testGraphInfo = new GraphInfo("缓冲试验报告图", "时间", "位移", 图片路径);
         }
         public void GraphChoose()
         {
-            if (MainForm.test == 2)
+            if (MainForm.test == 6)
             {
-                大腔启动压力 = FormConfig.x;
-               
-            }
-            else if (MainForm.test == 6)
-            {
-                图片路径1 = 路径 + "\\report\\pict\\缓冲试验曲线" + DateTime.Now.ToString("yy-MM-dd hhmmss") + ".bmp";
-                testGraphInfo = new GraphInfo("缓冲试验报告图", "时间", "位移", 图片路径1);
+                图片路径 = 路径 + "\\report\\pict\\动态油缸缓冲试验曲线" + DateTime.Now.ToString("yy-MM-dd hhmmss") + ".bmp";
+                testGraphInfo = new GraphInfo("缓冲试验报告图", "时间", "位移", 图片路径);
             }
             else if (MainForm.test == 8)
             {
-                图片路径2 = 路径 + "\\report\\pict\\负载效率试验曲线" + DateTime.Now.ToString("yy-MM-dd hhmmss") + ".bmp";
-                testGraphInfo = new GraphInfo("负载效率试验报告图", "压力", "负载效率", 图片路径2);
+                图片路径 = 路径 + "\\report\\pict\\负载效率试验曲线" + DateTime.Now.ToString("yy-MM-dd hhmmss") + ".bmp";
+                // testGraphInfo = new GraphInfo("负载效率试验报告图", "压力", "负载效率", 图片路径);
+                testGraphInfo = new GraphInfo("负载效率试验报告图", "压力", "负载效率", 图片路径);
             }
         }
             //在选择实验界面遍历动态油缸的实验
             public static IList<TestType> GetSupportedTestType()
         {
+
             IList<TestType> list = new List<TestType>();
             list.Add(TestType.试运转试验);
             list.Add(TestType.启动压力特性试验);
@@ -142,6 +139,7 @@ namespace MainProj.Local
             FormStart f1 = new FormStart();
             f1.Show();
             // = server.NormalRead<double>("位移传感器LVDT",0);
+            
         }
 
         /// <summary>
@@ -166,7 +164,7 @@ namespace MainProj.Local
         /// </summary>
         public void EnduranceTest()
         {
-            server.InstantWrite<double>("比例伺服阀VDS1_a",0);
+            server.NormalWrite<double>("比例伺服阀VDS1",0);
             MessageBox.Show("手动调整RF1溢流阀的压力至10mpa，CK1高压球阀关闭，CK2高压球阀关闭，调节RF2溢流阀至14Mpa,调节RF3溢流阀至5.6Mpa", "耐久性试验手动提示");
         }
 
@@ -181,7 +179,7 @@ namespace MainProj.Local
             for (int i = 0; i < 60; i++)
                 {
                     LOG.Info(String.Format("第 {0}\t组数据 : {1}", i, Math.Sqrt(i)));
-                    Thread.Sleep(50);
+                    //Thread.Sleep(50);
                     testGraphInfo.List.Add(i, r1 * Math.Sqrt(i) - r2 * Math.Pow(i, 0.5));
                 }
         }
@@ -198,10 +196,13 @@ namespace MainProj.Local
             for (int i = 10; i < 60; i++)
             {
                 LOG.Info(String.Format("第 {0}\t组数据 : {1}", i, Math.Sqrt(i)));
-                Thread.Sleep(50);
+                //Thread.Sleep(50);
                 testGraphInfo.List.Add(i, r1 * Math.Sqrt(i) - r2);
             }
+           
         }
+
+      
         /// <summary>
         /// 重写的Run,考虑移回基类
         /// </summary>
@@ -242,7 +243,9 @@ namespace MainProj.Local
             {
                 TestEndEvent();
             }
+    
         }
+
         /// <summary>
         /// 把dictionary中的数据放到指定的模板里
         /// </summary>
@@ -257,44 +260,62 @@ namespace MainProj.Local
         {
             LOG.Info("正在写入基础信息...");
             Dictionary<string, string> Pict = new Dictionary<string, string>();
-           // Dictionary<string, string> Pict2 = new Dictionary<string, string>();
             WordHelper helper = SetReportBasicInfo(true);
            
             //选择试验生成图片
-           if (File.Exists(图片路径1))
-            {
-                Pict.Add("$动态油缸位移时间曲线$", 图片路径1);
-            }
-            if (File.Exists(图片路径2))
-            {
-                Pict.Add("$动态油缸负载效率试验曲线$", 图片路径2);
-            }
-            helper.Insertpicture(Pict);
-            helper.SaveDocument(保存路径);
-
+            //MessageBox.Show("HI");
+                if (File.Exists(图片路径))
+                {
+                    if (MainForm.test == 6)
+                    {
+                       
+                        //string key = "位移时间曲线";
+                        
+                        Pict.Add("$动态油缸位移时间曲线$", 图片路径);
+                        helper.Insertpicture(Pict);
+                        LOG.Debug("正在写入图片");
+                        helper.SaveDocument(保存路径);
+                    }
+                    else if (MainForm.test == 8)
+                    {
+                       // string key = "负载效率曲线";
+                        Pict.Add("$动态油缸负载效率试验曲线$", 图片路径);
+                        helper.Insertpicture(Pict);
+                        LOG.Debug("正在写入图片");
+                        helper.SaveDocument(保存路径);
+                    }
+                }
+                else
+                {
+                    LOG.Error("因为本次实验没有保存图片，无法生成试验报告");
+                }
             MessageBox.Show("本次试验报告文档保存在项目MainProj的report中，请查收");
         }
-
         WordHelper helper = new WordHelper();
         //弹出提示框，给工作人员名单
         public WordHelper SetReportBasicInfo(bool isManul)
         {
+            Dictionary<string, string> dict = new Dictionary<string, string>();
             helper.CreateNewDocument(this.模板路径);
             string 人员名字 = "我是谁";
             if (isManul)
             {
                 //窗口获取实验人员信息
                 GetInformation Inf = new GetInformation("请输入实验人员的姓名");
-                人员名字 = Inf.ShowDialog() == DialogResult.OK && Inf.Value.Length > 0 ? Inf.Value : "xxxx";
+                人员名字 = Inf.ShowDialog() == DialogResult.OK && Inf.Value.Length > 0 ? Inf.Value : "XXXX";
             }
             dict.Add("$人员$", 人员名字);
             dict.Add("$日期$", DateTime.Now.ToLongDateString());
+
             dict.Add("$试验持续时间$", this.测试试验时间.ToString() + "s");
-            dict.Add("$大腔启动压力$", this.大腔启动压力.ToString() + "MPa");
-            dict.Add("$小腔启动压力$", this.小腔启动压力.ToString() + "MPa");
+            dict.Add("$试验最大压力$", this.试验最大压力.ToString() + "MPa");
             helper.InserttextValue(dict);
             return helper;
         }
+
+           
+       
+
     }
 }
     

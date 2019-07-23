@@ -68,12 +68,12 @@ namespace MainProj.Local
         public string 实验人员;
         public string 试验时间;
         public static string 路径;
-        public static string 图片路径1;
-        public static string 图片路径2;
-
+        public static string 图片路径;
         // private static string 保存路径;
         // private static string 模板路径;
-
+        //本试验参数
+        public double 测试试验时间;
+        public double 试验最大压力;
         #endregion
         public SharedBase()
         {

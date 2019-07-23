@@ -1,0 +1,252 @@
+2019-07-23 08:50:09,432[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:212)
+试验开始...
+
+2019-07-23 08:50:09,481[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:217)
+开始记录数据
+
+2019-07-23 08:50:09,481[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 0	组数据 : 0
+
+2019-07-23 08:50:09,482[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 1	组数据 : 1
+
+2019-07-23 08:50:09,482[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 2	组数据 : 1.4142135623731
+
+2019-07-23 08:50:09,482[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 3	组数据 : 1.73205080756888
+
+2019-07-23 08:50:09,483[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 4	组数据 : 2
+
+2019-07-23 08:50:09,483[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 5	组数据 : 2.23606797749979
+
+2019-07-23 08:50:09,483[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 6	组数据 : 2.44948974278318
+
+2019-07-23 08:50:09,483[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 7	组数据 : 2.64575131106459
+
+2019-07-23 08:50:09,483[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 8	组数据 : 2.82842712474619
+
+2019-07-23 08:50:09,483[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 9	组数据 : 3
+
+2019-07-23 08:50:09,483[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 10	组数据 : 3.16227766016838
+
+2019-07-23 08:50:09,484[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 11	组数据 : 3.3166247903554
+
+2019-07-23 08:50:09,484[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 12	组数据 : 3.46410161513775
+
+2019-07-23 08:50:09,484[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 13	组数据 : 3.60555127546399
+
+2019-07-23 08:50:09,484[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 14	组数据 : 3.74165738677394
+
+2019-07-23 08:50:09,485[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 15	组数据 : 3.87298334620742
+
+2019-07-23 08:50:09,485[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 16	组数据 : 4
+
+2019-07-23 08:50:09,485[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 17	组数据 : 4.12310562561766
+
+2019-07-23 08:50:09,485[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 18	组数据 : 4.24264068711928
+
+2019-07-23 08:50:09,485[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 19	组数据 : 4.35889894354067
+
+2019-07-23 08:50:09,486[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 20	组数据 : 4.47213595499958
+
+2019-07-23 08:50:09,486[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 21	组数据 : 4.58257569495584
+
+2019-07-23 08:50:09,486[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 22	组数据 : 4.69041575982343
+
+2019-07-23 08:50:09,486[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 23	组数据 : 4.79583152331272
+
+2019-07-23 08:50:09,486[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 24	组数据 : 4.89897948556636
+
+2019-07-23 08:50:09,486[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 25	组数据 : 5
+
+2019-07-23 08:50:09,486[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 26	组数据 : 5.09901951359278
+
+2019-07-23 08:50:09,487[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 27	组数据 : 5.19615242270663
+
+2019-07-23 08:50:09,487[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 28	组数据 : 5.29150262212918
+
+2019-07-23 08:50:09,487[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 29	组数据 : 5.3851648071345
+
+2019-07-23 08:50:09,487[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 30	组数据 : 5.47722557505166
+
+2019-07-23 08:50:09,487[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 31	组数据 : 5.56776436283002
+
+2019-07-23 08:50:09,488[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 32	组数据 : 5.65685424949238
+
+2019-07-23 08:50:09,488[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 33	组数据 : 5.74456264653803
+
+2019-07-23 08:50:09,488[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 34	组数据 : 5.8309518948453
+
+2019-07-23 08:50:09,488[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 35	组数据 : 5.91607978309962
+
+2019-07-23 08:50:09,489[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 36	组数据 : 6
+
+2019-07-23 08:50:09,489[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 37	组数据 : 6.08276253029822
+
+2019-07-23 08:50:09,489[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 38	组数据 : 6.16441400296898
+
+2019-07-23 08:50:09,489[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 39	组数据 : 6.2449979983984
+
+2019-07-23 08:50:09,489[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 40	组数据 : 6.32455532033676
+
+2019-07-23 08:50:09,489[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 41	组数据 : 6.40312423743285
+
+2019-07-23 08:50:09,489[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 42	组数据 : 6.48074069840786
+
+2019-07-23 08:50:09,489[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 43	组数据 : 6.557438524302
+
+2019-07-23 08:50:09,490[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 44	组数据 : 6.6332495807108
+
+2019-07-23 08:50:09,490[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 45	组数据 : 6.70820393249937
+
+2019-07-23 08:50:09,491[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 46	组数据 : 6.78232998312527
+
+2019-07-23 08:50:09,491[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 47	组数据 : 6.85565460040104
+
+2019-07-23 08:50:09,491[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 48	组数据 : 6.92820323027551
+
+2019-07-23 08:50:09,491[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 49	组数据 : 7
+
+2019-07-23 08:50:09,492[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 50	组数据 : 7.07106781186548
+
+2019-07-23 08:50:09,492[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 51	组数据 : 7.14142842854285
+
+2019-07-23 08:50:09,492[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 52	组数据 : 7.21110255092798
+
+2019-07-23 08:50:09,492[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 53	组数据 : 7.28010988928052
+
+2019-07-23 08:50:09,493[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 54	组数据 : 7.34846922834953
+
+2019-07-23 08:50:09,493[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 55	组数据 : 7.41619848709566
+
+2019-07-23 08:50:09,493[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 56	组数据 : 7.48331477354788
+
+2019-07-23 08:50:09,494[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 57	组数据 : 7.54983443527075
+
+2019-07-23 08:50:09,494[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 58	组数据 : 7.61577310586391
+
+2019-07-23 08:50:09,494[INFO]
+fMainProj.Local.Dynamic_Cylinder.StartBufferTest(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:181)
+第 59	组数据 : 7.68114574786861
+
+2019-07-23 08:50:11,556[INFO]
+fMainProj.Local.Dynamic_Cylinder.Run(D:\gits\DynamicCylinder\MainProj\RigDynamicCylinder\Dynamic_Cylinder.cs:235)
+试验结束,请打印实验报告...
+
